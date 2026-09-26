@@ -51,7 +51,3 @@ A atual rei de krateras também possui o cargo de rei dos reis, com poderes de p
 - [[EP 32 - Existem outras maneiras]] — imagem "Rei Heraclion III"
 - [[EP 34 - Sobreviva]] — imagem "Rei Heraclion III"
 - [[EP 35 - Tempos de Gloria]] — imagem "Rei Heraclion III"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

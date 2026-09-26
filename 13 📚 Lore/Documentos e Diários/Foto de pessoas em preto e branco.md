@@ -22,7 +22,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 17: Uma mulher com um olho menor que o outro que parece estar focando em dois pontos diferentes, usando uma espécie de camisola preta de tecido leve rasgada com algumas aranhas espalhadas pelo corpo
 
 ![[1370832011559698633-Konnor.webp|320]] ![[1370832560804073503-Catarine_Rafelly_Grant_10-02_K.webp|320]] ![[1370832560804073503-Barbudius_Nocri_03-02_Capturado.webp|320]] ![[1370832560804073503-Fuga_em_Massa_13-04_B.webp|320]] ![[1370832560804073503-Pandemonio_em_Methirot_13-04_K.webp|320]] ![[1370832560804073503-Convencao_corporacao_Florata.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

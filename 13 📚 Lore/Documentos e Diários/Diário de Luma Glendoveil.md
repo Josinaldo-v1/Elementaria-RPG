@@ -27,7 +27,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 ![[1370828808462270605-Comandar_Anatema_-_CP.webp|260]] ![[1370828851180998768-Comandar_Aspecto_-_CP.webp|260]] ![[1370828891756957736-Dominio_do_Caos_-_CP_.webp|260]] ![[1370828953429868564-Dominio_Mental_-_CP.webp|260]] ![[1370829022103081000-Manipulacao_Temporal_-_CP.webp|260]] ![[1370829061366218993-Ressureicao_dos_Mortos_-_CP_.webp|260]]
 
 <small>Fonte: Acervo Coletivo</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

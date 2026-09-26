@@ -35,7 +35,3 @@ fonte:
 | [[Varinha de Thorkelona]] | 💎 Mítica | Varinha | **..........................................................................................................................** |
 | [[Melhor amigo de uma Dama]] | 💎 Mítica | Baselarda | [[Jack Kenway]] |
 | [[Thorkelona]] | ⚫ Comum | Filial | **..........................................................................................................................** |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

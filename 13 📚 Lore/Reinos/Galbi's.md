@@ -25,7 +25,3 @@ fonte:
 - Galbi's (capital)
 
 A história completa está na nota da classe: [[Junanis]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

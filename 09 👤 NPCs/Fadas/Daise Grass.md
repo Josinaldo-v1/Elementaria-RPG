@@ -40,7 +40,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092810809970818/151
 
 ## Resumo
 Uma das conselheiras da atual rainha das fadas, possui afinidade com a Natureza e é graciada por Fee, atual portadora do O Bastão da Arvore da Vida.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -45,7 +45,3 @@ Dano sobe **1d20** a cada melhoria · até **3** melhoria(s) · dano máximo **5
 ### 👤 Origem e portadores
 - **Origem:** —
 - **Portador:** [[Calypso Ezeriel]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

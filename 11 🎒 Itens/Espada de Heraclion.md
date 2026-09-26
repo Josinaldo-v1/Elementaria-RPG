@@ -45,7 +45,3 @@ Todo teste de Luta para funcionalidade dessa arma serão com vantagem.
 
 > [!question] [DÚVIDA]
 > O efeito **Arcenal Branco** está só como "(...)" na planilha.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

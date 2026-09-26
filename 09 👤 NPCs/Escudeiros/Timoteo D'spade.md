@@ -43,7 +43,3 @@ Timoteo D'spade foi movido por vingança e rancor por ser trocado pelo seu melho
 ## 🎬 Aparições na campanha
 - [[EP 06 - Crianças]]
 - [[EP 07 - Custe o que Custar]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

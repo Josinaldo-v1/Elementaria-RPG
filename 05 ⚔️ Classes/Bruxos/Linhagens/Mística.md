@@ -23,7 +23,3 @@ A Linhagem mística de um bruxo é focada em runas de batalhas extremamente pode
 - Wayde Ariom
 - Ulius Atarah
 - Ferbus Atarah
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

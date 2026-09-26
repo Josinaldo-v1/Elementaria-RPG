@@ -82,12 +82,13 @@ Toda nota tem `tipo`, `nome`, `tags`, `fonte` e, quando couber, `aliases`, `imag
 1. `# Título` e o quadro-resumo (`[!abstract]`; nas fichas, o quadro `[!ficha]`)
 2. O conteúdo do assunto (descrição, poderes, história, membros…)
 3. `## ⚠️ Conflitos e dúvidas`
-4. `## 🖼️ Galeria` (uma só) · `## 🎬 Aparições na campanha` · `## 🗂️ Dossiê` · `## 🔗 Ligações`
+4. `## 🖼️ Galeria` (uma só) · `## 🎬 Aparições na campanha` · `## 🗂️ Dossiê`
 5. `## 🔒 Mestre` — **sempre por último**
 
 ## 6. Como a staff trabalha
 - **Corrigir textos e dados:** na planilha *Elementaria — Base de Dados* (Google Planilhas) ou no documento *Livro do Mundo* (Google Docs). As correções voltam para o vault na próxima atualização.
 - **Decidir pendências:** coluna *Decisão* da aba **🧾 Decisões da staff** (planilha) — a mesma lista está em 🧭 Revisão do Universo.
+- **Quem cita esta nota:** aparece sozinho no pé de cada nota (menções do Obsidian: *Menções vinculadas* e *Menções não vinculadas*).
 - **Editar direto no Obsidian:** pode. A nota editada passa a ser **protegida** — o gerador não a sobrescreve mais.
 
 ## 7. Como o vault é gerado

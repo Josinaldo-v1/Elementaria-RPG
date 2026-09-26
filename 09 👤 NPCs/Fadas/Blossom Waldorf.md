@@ -45,7 +45,3 @@ Uma das conselheiras da atual rainha das fadas, possui afinidade com o fogo e é
 
 ## 🎬 Aparições na campanha
 - [[EP 24 - Universo de coisas que eu desconheço]] — imagem "Blossom  Waldorf"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

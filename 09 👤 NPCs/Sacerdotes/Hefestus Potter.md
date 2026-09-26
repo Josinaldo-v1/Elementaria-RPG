@@ -49,7 +49,3 @@ Hefestus possui afinidade com o Metal e poderes voltados para manipulação de d
 ## 🎬 Aparições na campanha
 - [[EP 12 - Pedacinho do Céu]] — imagem "Hefestus  Potter"
 - [[EP 16 - Ninguém te Contou]] — imagem "Hefestus  Potter"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

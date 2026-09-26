@@ -90,7 +90,3 @@ Amanda foi resgatada pelo grupo de aventureiros enquanto era traficada e está d
 - [[EP 17 - Braços Abertos]] — imagem "Amanda"
 - [[EP 42 - Eu olho por Você]] — imagem "Amanda ??"
 - [[Covil das Aranhas]] — batalha de 20/09/2026 (Planilha de Batalhas)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

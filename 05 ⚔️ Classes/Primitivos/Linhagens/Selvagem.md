@@ -23,7 +23,3 @@ A Linhagem Selvagem de um primitivo é focada em golpear inimigos únicos com go
 - [[Balburdius Nocri]]
 - [[Brianne-e Grotle]]
 - [[Thormund Terra-a]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

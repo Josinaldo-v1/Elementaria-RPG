@@ -30,7 +30,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 | V | ... em +20 | 5 | Ofício DT 25 |
 
 **Receita:** 200 ml de água potável - 10g de aragonita – 5g de areia cintilante de Malokan
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

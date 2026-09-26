@@ -50,7 +50,3 @@ Petrucius possui poderes de controle de Biomassa, possui a capacidade de invocar
 
 ## 🖼️ Galeria
 ![[1529843474978046014-1529843474721935452-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

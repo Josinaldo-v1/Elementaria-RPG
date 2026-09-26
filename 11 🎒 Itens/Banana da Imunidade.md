@@ -24,7 +24,3 @@ fonte:
 
 > [!question] [DÚVIDA]
 > É a mesma benção com efeito escolhido por personagem, ou são duas bênçãos diferentes com o mesmo nome?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -45,7 +45,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1513909517694402611"
 - **Portador:** [[Amelie Willow]]
 
 > [!note] Nome no título da mensagem: **Armadura de Charlotte Vincenzo** · no campo *(Nome)*: **Réplica Armadura de Charlotte Vincenzo**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

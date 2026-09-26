@@ -47,7 +47,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1436423056737308764/143
 
 ## 🎬 Aparições na campanha
 - [[EP 19 - Submundo]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

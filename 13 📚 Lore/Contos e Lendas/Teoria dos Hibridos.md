@@ -39,7 +39,3 @@ Vou atrás de mais seres como estes para entende-los e catalogar sua capacidade 
 Não confirmo nada principalmente após a guerra devido ao receio de passe livre entre os reinos, porém se os híbridos existem até onde vai sua capacidade de poder e principalmente por que eles se escondem?
 
 Publicado por tele mensagem visual magica em 05/05/001/3º
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

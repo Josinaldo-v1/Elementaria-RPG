@@ -31,7 +31,3 @@ Sempre que receber sucesso num teste de desviar pode rodar sorte para ficar invi
 Consome uma ação principal ou de movimento para aplicar Flip-Flop em si mesmo por 1 round consumindo 500 de mana.
 ### ⚜️ Ponteiro Horário
 Ao tocar na pessoa consumindo 1000 de mana aplica a condição de Certeiro por 1 round.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

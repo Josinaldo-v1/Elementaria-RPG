@@ -33,7 +33,3 @@ Henry além de ser o Rei era também o general e chefe dos exércitos de Malokan
 Malokan era um reino submarino profundo cercado por uma cordilheira de montanhas de corais, a única saída direta que seu reino tinha era a passagem do canal para a Colônia Malokan na superfície, logo qualquer ataque de uma criatura submersa a população não teria para onde correr.
 
 Mais dias se passaram e Victorie se interessava ainda mais por estudar sobre a historia do seu Reino e até mesmo sobre a história de Elementaria, o castigo já nem parecia mais um castigo, sua irmã Umma Kalistos, a filha mais velha de Henry e Regina, as vezes visitava Victorie, no começo essas visitas da irmã mais velha eram para dar sermão porém era o único passatempo que ela tinha, porém agora Victorie torcia para que essas visitas de Umma acabassem rápido para que ela voltasse a estudar, sem falar que a maioria das visitas era para Umma dar sermão nos comportamentos imprudentes dela.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

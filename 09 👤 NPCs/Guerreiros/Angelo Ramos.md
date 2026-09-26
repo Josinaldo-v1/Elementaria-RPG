@@ -45,7 +45,3 @@ Irmão de Cassio Ramos ???
 
 ## 🎬 Aparições na campanha
 - [[EP 16 - Ninguém te Contou]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

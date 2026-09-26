@@ -23,7 +23,3 @@ A Linhagem Curadora de uma fada é focada em tratar ferimentos de seus aliados, 
 - [[Melody Vicenzo]]
 - [[Flor-de-lis Vicenzo]]
 - [[Pharah Gondz]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

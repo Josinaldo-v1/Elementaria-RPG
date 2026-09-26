@@ -42,7 +42,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1435082041514266695/143
 
 ## 🎬 Aparições na campanha
 - [[EP 18 - Filha mais Velha]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

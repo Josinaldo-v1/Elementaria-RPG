@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1354628088138436678"
 *O Aspecto das Orações* — canal **Sacerdotes › aspectos**.
 
 ![[1354635059931381861-Bless_-_Oracoes.webp|300]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

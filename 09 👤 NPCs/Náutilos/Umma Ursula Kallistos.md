@@ -42,7 +42,3 @@ Umma é a princesa que é a primeira de 7 na linha de sucessão do trono de Malo
 
 > [!warning] [CONFLITO]
 > [[Umma Ursula Kallistos]] e [[Aria Ursula Kallistos]] são descritas como "a primeira de 7 na linha de sucessão", com o mesmo resumo de poderes.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -46,7 +46,3 @@ Segunda esposa de Connor, e mãe da terceira filha de connor. Possui afinidade c
 
 ## 🖼️ Galeria
 ![[1523791796046397664-1523791795560124538-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

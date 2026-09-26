@@ -43,7 +43,3 @@ Tamara possui poderes de manipulação de runas e transforma energia psicocineti
 
 ## Citados no registro
 [[Connor Pecctor]], Tristan Heliot
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

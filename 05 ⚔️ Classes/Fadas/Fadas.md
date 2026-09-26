@@ -143,7 +143,3 @@ Canal **Fadas › linhagens**.
 ![[1184548859196747888-fada.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -42,7 +42,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1509541883922223275"
 ### 👤 Origem e portadores
 - **Origem:** **Terakos Veridorn**
 - **Portador:** [[Calypso Ezeriel]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

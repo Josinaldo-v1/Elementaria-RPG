@@ -23,7 +23,3 @@ A Linhagem Kemaziana de um mago é focada em manipular magias que causem danos e
 - [[Cintya Cloudkiss]]
 - [[Iris Dracon-Flip]]
 - [[Steven Melmetal]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

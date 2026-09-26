@@ -23,7 +23,3 @@ A Linhagem Especialista de uma fada é focada completamente em batalha, são fad
 - [[Layla Wallys]]
 - [[Blossom Waldorf]]
 - [[Rainha Vicenzo Primeira]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

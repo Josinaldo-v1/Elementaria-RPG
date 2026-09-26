@@ -46,7 +46,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422839430549585/143
 
 ## 🖼️ Galeria
 ![[1523792987073679574-1523792986347929651-image.webp|240]] ![[1523792987073679574-1523792986771820706-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

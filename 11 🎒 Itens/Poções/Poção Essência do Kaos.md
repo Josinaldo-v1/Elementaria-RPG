@@ -44,7 +44,3 @@ A partir do nível subsequente as condições possuem um nível maior (ex.: Quei
 
 > [!warning] Observação
 > A receita do nível I é igual à da Poção de Pés Rápidos (provável cópia); outra mensagem dá "100 ml de água caótica, ingrediente variável, 10g de essência negra".
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

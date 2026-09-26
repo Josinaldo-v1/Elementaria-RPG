@@ -16,7 +16,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 > Esta classe/raça só aparece no servidor **NPCs Elementaria**. Não há guia, espírito, linhagens nem lista de poderes publicados.
 
 ## NPCs desta classe/raça
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

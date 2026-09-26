@@ -23,7 +23,3 @@ A Linhagem de um sacerdote Abrâmico é focada em orações que permitem propaga
 - [[Fabricius Benigtus]]
 - [[João Batista]]
 - [[Bartolomeu Lux]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

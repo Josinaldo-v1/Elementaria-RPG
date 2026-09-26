@@ -23,7 +23,3 @@ A Linhagem Maoris de um Escudeiro é focada em sacrificar pontos de vida ou até
 - [[Glass Trindewall]]
 - [[Leonardo Fireofly]]
 - [[Yan Shadow-Shild|Yan Shadow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

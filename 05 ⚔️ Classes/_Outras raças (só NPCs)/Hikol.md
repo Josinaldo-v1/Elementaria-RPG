@@ -12,7 +12,3 @@ fonte: "https://docs.google.com/spreadsheets/d/1mobDtnB3Z2PEZ41Lvyoylr0PcyyhiYUn
 > [!abstract] Espírito dos [[Sortudos]] — aba **Mitologia Elementaria** da planilha do mestre.
 
 **Aspectos:** [[Bluwish]] (*Desejo*) · [[Envy]] (*Barganha*) · [[Trop Jack]] (*Aposta*) · [[Aritnem]] (*Mentira*) · [[Draf]] (*Infortuna*)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -107,7 +107,3 @@ Canal **INVOCADORES › linhagens**.
 ![[1383472965248618546-Invocador_New_PNG.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

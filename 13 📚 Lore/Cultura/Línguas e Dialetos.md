@@ -41,7 +41,3 @@ tags:
 
 > [!question] [DÚVIDA]
 > Qual é a lista completa de dialetos? De que povo vêm **Allug, Kaellis, Rouglect, Lyfalys, Lifalys, A-Arglos, Elementus e Umbawka**? O "dialeto comum" dos bruxos é o Normalis? O que significa o **20%** ao lado de alguns dialetos?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

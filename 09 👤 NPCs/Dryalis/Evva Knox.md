@@ -48,7 +48,3 @@ Evva possui poderes de manipulação metal, manipulação e ciração de gelo, d
 
 ## 🖼️ Galeria
 ![[1529855846694129774-1529855846165512354-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

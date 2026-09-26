@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1354624124302921900"
 *O Aspecto da Lealdade* — canal **Escudeiros › aspectos**.
 
 ![[1354624592181985411-Loyali_-_Lealdade.webp|300]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

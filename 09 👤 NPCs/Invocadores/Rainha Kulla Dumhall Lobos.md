@@ -44,7 +44,3 @@ Kulla se casou com Lopato Lobos, após a morte da sua esposa, porém já era ama
 
 ## 🖼️ Galeria
 ![[1529844567753359432-image.webp|240]] ![[1539972729749643354-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

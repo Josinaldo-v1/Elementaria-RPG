@@ -19,7 +19,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 **PG 5** — Se sairmos daqui, eu e as meninas vamos atrás dessas armas para fortalecer o Reino das Fadas; se eu me tornar Rainha, vou usá-las para proteger toda Elementaria.
 
 > [!note] No servidor de NPCs, as conselheiras WINX portam exatamente essas armas (ex.: [[Blossom Waldorf]] — Varinha da Chama do Dragão; [[Rainha Stellya Vicenzo]] — Cetro do Sol Reluzente).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

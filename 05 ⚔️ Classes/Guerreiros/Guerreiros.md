@@ -62,7 +62,3 @@ Canal **Guerreiros › linhagens**.
 ![[1305651567659323482-guerreiros.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -43,7 +43,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1513909517694402611"
 ### 👤 Origem e portadores
 - **Origem:** [[Connor Pecctor]]
 - **Portador:** —
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

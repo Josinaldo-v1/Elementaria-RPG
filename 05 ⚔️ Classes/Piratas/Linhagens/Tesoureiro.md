@@ -23,7 +23,3 @@ A Linhagem Tesoureira de um pirata é focada em atingir alvos em longo alcance, 
 - [[Locky Lady]]
 - [[Henry Netlin]]
 - [[Dacy Portland]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

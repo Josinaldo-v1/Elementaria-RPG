@@ -63,7 +63,3 @@ Dano sobe **2d8** a cada melhoria · até **3** melhoria(s) · dano máximo **8D
 ### 👤 Origem e portadores
 - **Origem:** Organização Rosa Negra
 - **Portador:** [[Cássio Ramos]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

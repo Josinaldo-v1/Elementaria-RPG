@@ -49,7 +49,3 @@ Hera possui afinidade com o Agua e poderes voltados para alteração de celulas 
 ## 🎬 Aparições na campanha
 - [[EP 26 - Não se preocupem, nós faremos vocês se preocuparem]]
 - [[EP 27 - Crueldade]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

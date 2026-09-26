@@ -23,7 +23,3 @@ A Linhagem de um sacerdote Hecatino está diretamente ligada com a morte, utiliz
 - Beatriz Satti
 - [[Thomas Charm]]
 - [[André Mitis]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1354624124302921900"
 *O Aspecto da Virtude* — canal **Escudeiros › aspectos**.
 
 ![[1354625183448825957-Graados_-_Virtude.webp|300]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

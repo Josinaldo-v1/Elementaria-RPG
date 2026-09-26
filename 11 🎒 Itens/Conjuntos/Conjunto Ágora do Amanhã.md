@@ -31,7 +31,3 @@ fonte:
 
 > [!question] [DÚVIDA]
 > O conjunto tem 30 peças, mas só uma aparece no servidor. A primeira grande guerra teve 30 reis? (O servidor DM fala em **20** líderes da aliança.)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -18,7 +18,3 @@ A Linhagem de um Arconte Therubis está diretamente ligada com a movimentação 
 ## Grandes nomes desta linhagem
 > [!question] [DÚVIDA]
 > A lista de grandes nomes está vazia no canal.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

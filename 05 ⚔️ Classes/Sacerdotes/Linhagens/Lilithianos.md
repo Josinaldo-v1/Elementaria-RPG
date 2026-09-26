@@ -23,7 +23,3 @@ A Linhagem Lilithiana de um sacerdote tem como matriz aproveitar da falta de fé
 - [[Connor Pecctor|Connor Precttor]]
 - [[Lucifer Imaculato]]
 - Judas Pecttor
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

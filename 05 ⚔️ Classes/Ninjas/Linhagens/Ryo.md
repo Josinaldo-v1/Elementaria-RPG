@@ -23,7 +23,3 @@ A Linhagem Ryo de um ninja é focada em zonear áreas do campo de batalha criand
 - [[Jinshu Acer Silva]]
 - [[Fenix Ryo]]
 - [[Liza Kori]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

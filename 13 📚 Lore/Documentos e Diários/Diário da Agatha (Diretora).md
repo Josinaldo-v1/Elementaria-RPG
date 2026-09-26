@@ -18,7 +18,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 4. **02/06/045/2º** — Um homem estranho, na posse de Giovani, me ofereceu o poder de Kalo Kai Kako "por quanto tempo eu quiser"; acho que irei ao encontro dele...
 
 > [!warning] [CONFLITO] Nomes: "Giovani Meklaton" aqui × "Giovanni Meclaton" no guia dos [[Magos]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

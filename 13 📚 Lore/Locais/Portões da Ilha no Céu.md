@@ -30,7 +30,3 @@ No EP 40 também aparecem [[Lazulla]] (Graça) e [[Pergollant]] (Salvação).
 - [[EP 39 - Tempestade]] — imagem "O Portão I: A Profecia"
 - [[EP 39 - Tempestade]] — imagem "O Portão II: A Abundancia"
 - [[EP 40 - A Mulher Gigante]] — imagem "O Portão III: A Dádiva"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

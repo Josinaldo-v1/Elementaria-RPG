@@ -50,7 +50,3 @@ General dos Corujas Obsidian.
 ## 🎬 Aparições na campanha
 - [[EP 30 - Quem é você]]
 - [[EP 36 - Filhos de Ninguém]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

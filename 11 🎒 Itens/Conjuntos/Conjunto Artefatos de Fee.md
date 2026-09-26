@@ -40,7 +40,3 @@ fonte:
 | [[Asa Lâmina de Fee]] | 💎 Mítica | Gladio | [[Amelie Willow]] |
 | [[Diadema de Fee]] | 🟢 Épico | Diadema | **..........................................................................................................................** |
 | [[Sapatilhas de Fee]] | 🟢 Épico | Sapatilhas | **..........................................................................................................................** |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

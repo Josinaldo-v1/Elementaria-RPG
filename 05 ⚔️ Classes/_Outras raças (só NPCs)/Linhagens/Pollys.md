@@ -20,7 +20,3 @@ A Linhagem Pollys de um Nautilus é focada em restaurar a vitalidade própria e 
 - Ariel Marmoiry
 - **Leonarda Meriland**
 - **Melinda Jarvis**
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

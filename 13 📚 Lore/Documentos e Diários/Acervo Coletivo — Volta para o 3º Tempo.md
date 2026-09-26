@@ -37,7 +37,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1225229703627931658"
 
 > [!question] [DÚVIDA]
 > Aqui aparece **Suor de Basilisco** ("petrifica quem tomar"); no servidor do mestre a poção é **Sangue de Basilisco**. É a mesma? E os nomes na coluna *Observação* (VINI, OPHELIA) são quem comprou?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

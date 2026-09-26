@@ -21,7 +21,3 @@ Kalvreppo é o espirito que rege sobre os Piratas, o que se sabe sobre ele é qu
 
 ## 🖼️ Galeria
 ![[1158798062685266020-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -25,7 +25,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 
 > [!warning] Observação
 > Condição alterada caso use a escama do Alastor e de Darius Dahlia Lavande Draconia d'rouge Pecctor Ollek, a primeira de seu nome.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

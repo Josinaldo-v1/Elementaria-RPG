@@ -43,7 +43,3 @@ Mannon é filha de Lemos Fast (Ligeirinho) e ao contrario do seu pai, ela possui
 
 ## Citados no registro
 [[Lemos Fast]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

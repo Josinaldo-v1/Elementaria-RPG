@@ -44,7 +44,3 @@ Alex é filha de Theia Qin (Flechette) e William Peralta (Diabrette) irmã gemea
 
 ## 🖼️ Galeria
 ![[1430999132792815669-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

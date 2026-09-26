@@ -27,7 +27,3 @@ fonte:
 ## Efeitos
 ### ⚜️ Amuleto Sombrio
 Converte o mesmo valor de modificadores de Medo do usuário em resistência a Trevas (Máximo 10).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

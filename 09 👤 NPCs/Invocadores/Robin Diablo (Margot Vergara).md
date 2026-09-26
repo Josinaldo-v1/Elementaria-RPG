@@ -72,7 +72,3 @@ Neste mundo, Robin é uma invocadora de monstros caçada por ser uma ativista/ju
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[O Desaparecimento de Kralove · EP 01 - A Floresta das Águas Rasas|O Desaparecimento de Kralove — EP 1: A Floresta das Águas Rasas]] (06/01/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

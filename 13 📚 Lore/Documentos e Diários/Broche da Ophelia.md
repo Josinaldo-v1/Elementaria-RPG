@@ -16,7 +16,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 > [!abstract] Documento do [[Acervo Coletivo]] da campanha [[A Queda de Caput Luci's]], publicado em 25/05/2025.
 
 ![[1376345180617310371-image.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

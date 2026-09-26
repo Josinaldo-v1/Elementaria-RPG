@@ -23,7 +23,3 @@ Drakoper é o espirito que rege sobre os Invocadores, o que se sabe sobre ele de
 
 ## 🎬 Aparições na campanha
 - [[EP 19 - Submundo]] — imagem "Drakopper"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

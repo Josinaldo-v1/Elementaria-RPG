@@ -43,7 +43,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1193223921219149936"
 ## 🎬 Aparições na campanha
 - [[EP 33 - Culpado como pecado]] — imagem "Aххос [Anátema da Culpa]"
 - [[EP 34 - Sobreviva]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -23,7 +23,3 @@ A Linhagem Hipoli de um Guerreiro é focada em zonear o campo de batalha com seu
 - [[Zilian Trapstain]]
 - [[Leona Fireofly]]
 - [[Lucas Harper]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

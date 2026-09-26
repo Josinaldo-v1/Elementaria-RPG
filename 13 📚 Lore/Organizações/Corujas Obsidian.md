@@ -42,7 +42,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 - [[EP 30 - Quem é você]] — imagem "Quartel dos Corujas Obsidians"
 - [[EP 30 - Quem é você]] — imagem "Quartel dos Corujas de obsidian: Modo de Batalha"
 - [[EP 36 - Filhos de Ninguém]] — imagem "Ombreira dos Corujas Obsidian"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -37,7 +37,3 @@ Alterar para o modo Gwendoguarda faz com que enquanto o Hóplon estiver ativo el
 
 ### Alterar Modo
 Ao invocar o Hóplon o invocador deve escolher em qual modo ele deve começar e sempre lhe é permitido alterar o modo ao final de sua ação principal podendo fazer isso uma vez por turno após suas ações enquanto o Hóplon durar. Quando a invocação morre por pontos de vida ou por tempo de duração ela retorna para o invocador aumentando sua resistência em todos os elementos em +5 pelos próximos 2 Rounds – enquanto esse efeito estiver ativado não é possível invocar outro Hóplon além de ser permitido apenas um Hóplon em campo por vez.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

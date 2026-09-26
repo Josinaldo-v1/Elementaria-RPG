@@ -18,7 +18,3 @@ Kerdiman é o espirito que rege sobre os Rumbands, o que se sabe sobre ele devid
 
 ## 🖼️ Galeria
 ![[1190654733946454138-2.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

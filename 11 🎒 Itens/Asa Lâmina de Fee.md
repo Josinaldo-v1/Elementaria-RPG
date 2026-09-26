@@ -61,7 +61,3 @@ Dano sobe **2d12** a cada melhoria · até **2** melhoria(s) · dano máximo **7
 ### 👤 Origem e portadores
 - **Origem:** **Pharah Glenda Vicenzo**
 - **Portador:** [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -31,7 +31,3 @@ fonte:
 Sempre que obter sucesso em um golpe pode rodar 1d12 para ver de qual elemento o golpe será imbuído: 1 Água · 2 Eletricidade · 3 Magia · 4 Terra · 5 Trevas · 6 Natureza · 7 Vento · 8 Fogo · 9 Vitalidade · 10 Gelo · 11 Luz · 12 Metal.
 ### ⚜️ Armadura de Vidro
 O usuário recebe +3 em todas as resistências.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

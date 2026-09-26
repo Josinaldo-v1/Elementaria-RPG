@@ -18,7 +18,3 @@ Shuil é o espirito que rege sobre os Ninjas, pouco se sabe sobre ele e o que se
 
 ## 🖼️ Galeria
 ![[1184561378044952616-2.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

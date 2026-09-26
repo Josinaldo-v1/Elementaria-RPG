@@ -44,7 +44,3 @@ Ninja hibrido com Ladrão que está na melhor equipe de sua geração e tem como
 ## 🎬 Aparições nas campanhas anteriores
 - [[Templo de Terminus · EP 10 - Unidade Mercy|Templo de Terminus — EP 10: Unidade Mercy]] (03/03/2024)
 - [[Templo de Terminus · EP 16 - A Ágora do Amanha|Templo de Terminus — EP 16: A Ágora do Amanha]] (05/05/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

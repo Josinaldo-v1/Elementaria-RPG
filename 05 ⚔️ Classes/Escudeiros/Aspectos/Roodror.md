@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1354624124302921900"
 *O Aspecto do Sacrifício* — canal **Escudeiros › aspectos**.
 
 ![[1354624890312982549-Roodror_-_Sacrificio.webp|300]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

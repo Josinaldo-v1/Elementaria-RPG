@@ -30,7 +30,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 | V | ... por 6 rounds | 5 | Ofício DT 25 |
 
 **Receita:** 100 ml de água potável - 100 ml de óleo de camaleão – 2 tentáculos de polvo
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

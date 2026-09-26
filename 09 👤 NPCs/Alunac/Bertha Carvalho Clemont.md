@@ -41,7 +41,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1420922658232467556/151
 
 ## Resumo
 Bertha possui poderes de manipulação de aparência e controle sob a água, é membro do conselho e luta pelo direito dos Alunacs a permanecerem na aliança, além de tentar controlar a crise politica entre Zenluna e Krateras.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

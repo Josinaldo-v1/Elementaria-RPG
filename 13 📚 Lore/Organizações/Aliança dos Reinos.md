@@ -20,7 +20,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 - [[Bertha Carvalho Clemont]]
 - [[Cler Albuquerque Lucis]]
 - [[Sarah Machado Campos]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -46,7 +46,3 @@ Major dos Corujas Obsidian.
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[Sindicato da Desordem · EP 05 - Novo Grupo novos hábitos|Sindicato da Desordem — EP 5: Novo Grupo novos hábitos]] (16/08/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

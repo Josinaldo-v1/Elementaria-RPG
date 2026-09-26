@@ -27,7 +27,3 @@ Da ao usuário imunidade na condição de  Enfeitiçado
 
 > [!warning] [CONFLITO]
 > A aba do [[Jack Kenway]] também lista este item (cópia da aba do Cássio).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

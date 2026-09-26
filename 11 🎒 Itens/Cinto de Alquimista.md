@@ -42,7 +42,3 @@ Canal **Reliquia (Ouro) › cintura** ([link](https://discord.com/channels/14640
 ### 👤 Origem e portadores
 - **Origem:** **CONSELHO NEXUS**
 - **Portador:** [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -48,7 +48,3 @@ Clara possui poderes de manipulação de energia voltada para o cosmo, domina se
 
 ## 🖼️ Galeria
 ![[1529807717382754346-1529807717080760480-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

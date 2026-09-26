@@ -26,7 +26,3 @@ Também citadas: "Convergência rúnica de criação de vida" ([[Marth Atarah]])
 
 > [!question] [DÚVIDA]
 > Existem regras de jogo para criar/usar convergências?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

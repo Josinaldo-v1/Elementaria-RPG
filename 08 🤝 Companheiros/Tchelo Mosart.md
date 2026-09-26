@@ -67,7 +67,3 @@ imagem: "[[1549739264135274506-image.webp]]"
 - [[EP 01 - Renascer]]
 - [[EP 07 - Custe o que Custar]]
 - [[EP 42 - Eu olho por Você]] — imagem "Tchello Mosartt"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

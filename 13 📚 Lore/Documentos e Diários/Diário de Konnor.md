@@ -15,7 +15,3 @@ fonte: "https://discord.com/channels/1170818040192049162/1317473579079700531"
 
 > [!abstract] Diário encontrado pela party e guardado no [[Acervo Coletivo]] (campanha [[A Queda de Caput Luci's]]).
 > "Tudo nesse diário está em uma língua completamente incompreensível por todos."
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

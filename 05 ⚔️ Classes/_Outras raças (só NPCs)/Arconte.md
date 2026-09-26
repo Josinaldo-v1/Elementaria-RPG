@@ -51,7 +51,3 @@ Alguns Acerdotes se tornaram pessoas importantes em seus tempos, como por exempl
 ![[1509555572779778119-Arconte_New_PNG.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

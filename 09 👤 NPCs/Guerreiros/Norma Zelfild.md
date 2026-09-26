@@ -43,7 +43,3 @@ Major dos Corujas Obsidian.
 
 ## 🖼️ Galeria
 ![[1512531679053480086-image.webp|240]] ![[1523801091211530424-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

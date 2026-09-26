@@ -47,7 +47,3 @@ Hads possui afinidade com a vida e poderes voltados para a invocação de impuro
 
 ## 🎬 Aparições na campanha
 - [[EP 36 - Filhos de Ninguém]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -47,7 +47,3 @@ A atual rainha de krateras também possui o cargo de rainha das rainhas, com pod
 
 ## 🎬 Aparições na campanha
 - [[EP 32 - Existem outras maneiras]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -25,7 +25,3 @@ A Linhagem Física de um Inventor é focada em remover penalidades ou debuffs de
 - [[Ruby Steallock]]
 - [[Nico Tesla]]
 - [[Kimiko Tesla]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

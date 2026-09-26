@@ -20,7 +20,3 @@ Slim não só ensinou os inventores a lidar com as maquinas mas como tambem a en
 
 ## 🖼️ Galeria
 ![[1190311614516297738-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

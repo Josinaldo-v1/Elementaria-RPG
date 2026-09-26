@@ -21,7 +21,3 @@ Título do EP 40 e de uma imagem do episódio. O [[Edouard Acer]] tem a bênçã
 
 ## 🎬 Aparições na campanha
 - [[EP 40 - A Mulher Gigante]] — imagem "A MULHER GIGANTE"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -16,7 +16,3 @@ Local nº 9 da [[Ilha de Los-Temoros]]. Ligado a [[Alastor]].
 
 ## 🎬 Aparições na campanha
 - [[EP 37 - Assuntos Ilícitos]] — imagem "Berço do Alastor"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

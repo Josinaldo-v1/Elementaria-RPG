@@ -19,7 +19,3 @@ fonte: "Planilha de Batalhas v1.00.1 › aba OPHELIA › Q10"
 Capa de Neve Três vezes por luta ao ativar recebe danos finais provocados de gelo pela metade consumindo 500 de Mana.
 
 Elfo de Gelo Feitiços de gelo tem o custo de mana reduzido pela metade.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

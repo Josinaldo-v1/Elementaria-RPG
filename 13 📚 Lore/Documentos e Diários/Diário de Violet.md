@@ -16,7 +16,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1370788024308334592"
 > [!abstract] Documento do [[Acervo Coletivo]] da campanha [[A Queda de Caput Luci's]], publicado em 30/03/2026.
 
 ![[1487997622315651164-Diario_de_Violet_II.webp|320]] ![[1487997622315651164-Diario_de_Violet.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

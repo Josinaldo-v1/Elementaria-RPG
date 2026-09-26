@@ -45,7 +45,3 @@ Ninja hibrido com primitivo que está na melhor equipe de sua geração e tem co
 
 ## 🎬 Aparições na campanha
 - [[EP 24 - Universo de coisas que eu desconheço]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

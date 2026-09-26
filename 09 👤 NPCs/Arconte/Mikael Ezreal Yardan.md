@@ -39,7 +39,3 @@ Mikael Ezreal é o irmão de Calypso Ezreal e assim como a irmã tem o objetivo 
 
 ## Citados no registro
 [[Calypso Ezeriel]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

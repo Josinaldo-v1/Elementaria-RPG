@@ -23,7 +23,3 @@ A Linhagem Litejiana de um Mago é focada em criar magias de zoneamento que caus
 - [[Dianah Alfea]]
 - [[Jasminy Melmetal]]
 - [[Sarah Machado Campos]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

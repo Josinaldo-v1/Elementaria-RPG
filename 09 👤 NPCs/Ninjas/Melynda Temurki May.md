@@ -43,7 +43,3 @@ Melinda é a Then-sho no terceiro tempo e mentora da equipe MERCY.
 
 ## 🖼️ Galeria
 ![[1521472400917663856-b6c9bca6-e5f6-4f7d-b96a-2d1afca58f28.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

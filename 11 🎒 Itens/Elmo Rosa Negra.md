@@ -41,7 +41,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1547618896947716238"
 - **Portador:** —
 
 > [!note] Nome no título da mensagem: **Elmo Rosa Negra** · no campo *(Nome)*: **Elmo da Rosa Negra**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

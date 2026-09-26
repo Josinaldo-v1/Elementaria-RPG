@@ -23,7 +23,3 @@ A Linhagem Temploris de um bruxo é focada em manipular a probabilidade inimiga 
 - Morgana Atarah
 - [[Marth Atarah]]
 - [[Cindy Mcgonagol]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

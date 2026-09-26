@@ -18,7 +18,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 ## Membros
 - [[Bardo Yardan]]
 - [[Mikael Ezreal Yardan]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

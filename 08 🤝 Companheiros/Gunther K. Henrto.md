@@ -37,7 +37,3 @@ fonte:
 
 ## 🎬 Aparições na campanha
 - [[EP 43 - Noites de Verão]] — imagem "Gunther Khun Hentro"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -45,7 +45,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1514611601402232853"
 - **Portador:** [[Calypso Ezeriel]]
 
 > [!note] Nome no título da mensagem: **Anel de Seraphine Angel** · no campo *(Nome)*: **Réplica Anel de Seraphine Angel**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

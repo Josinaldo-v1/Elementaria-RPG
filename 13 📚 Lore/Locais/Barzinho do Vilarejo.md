@@ -19,7 +19,3 @@ Aparece no EP 41.
 
 ## 🎬 Aparições na campanha
 - [[EP 41 - Eu ainda estou de pé]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

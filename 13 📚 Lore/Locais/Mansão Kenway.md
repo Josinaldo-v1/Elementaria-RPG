@@ -16,7 +16,3 @@ Aparece no EP 43. Casa da família Kenway — ver [[Gloria 'Family' Kenway]], [[
 
 ## 🎬 Aparições na campanha
 - [[EP 43 - Noites de Verão]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

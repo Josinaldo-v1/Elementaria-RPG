@@ -53,7 +53,3 @@ fonte: "https://docs.google.com/spreadsheets/d/1mobDtnB3Z2PEZ41Lvyoylr0PcyyhiYUn
 
 > [!warning] [CONFLITO]
 > Grafias diferentes entre fontes: **A'acullum** (planilha) × **A'aculun** (servidor Lore); **Drakopper** × **Drakoper**; **CopaBoom** × **Copaboom**; **Minus** (planilha) × **Ninus** (servidor Sistema); **Lurek** × **Iurek**; **Marth** (aspecto da Morte dos Noluns) tem o mesmo nome de [[Marth Atarah]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

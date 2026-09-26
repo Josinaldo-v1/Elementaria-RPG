@@ -23,7 +23,3 @@ A Linhagem Corsária de um pirata é focada em criar armadilhas e manipular posi
 - [[Taylor Albatroz]]
 - Thalbot Loyal
 - [[Melinda Jarvis]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

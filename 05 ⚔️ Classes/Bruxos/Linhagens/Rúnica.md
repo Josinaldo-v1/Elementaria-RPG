@@ -23,7 +23,3 @@ A Linhagem rúnica de um bruxo é focada em criar runas que causam efeitos bené
 - Venutti Atarah
 - Gaspar Krane
 - Dian Atarah
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

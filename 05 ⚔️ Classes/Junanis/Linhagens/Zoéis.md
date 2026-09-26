@@ -23,7 +23,3 @@ A Linhagem Zoéis de um Junanis é focada em trazer para a batalha as plantas qu
 - [[Izobel Liefde]]
 - [[Pedro Naturebas]]
 - [[Andreas Liefde]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

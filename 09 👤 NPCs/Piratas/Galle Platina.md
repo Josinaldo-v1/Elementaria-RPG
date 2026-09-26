@@ -49,7 +49,3 @@ Galle possui poderes de manipulação da Água, controle das ondas e invocação
 
 ## 🖼️ Galeria
 ![[1539960172825288754-1539960172397465670-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

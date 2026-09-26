@@ -26,7 +26,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1385083233947091087"
 
 ## 🎬 Aparições na campanha
 - [[EP 08 - Sozinho's]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

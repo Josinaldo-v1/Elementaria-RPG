@@ -29,7 +29,3 @@ fonte:
 - Anfíbios (família real dos Sapos)
 
 A história completa está na nota da classe: [[Invocadores]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

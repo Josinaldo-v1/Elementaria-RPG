@@ -47,7 +47,3 @@ Hermes possui afinidade com a Terra e poderes voltados para manipulação de arg
 
 ## 🎬 Aparições na campanha
 - [[EP 36 - Filhos de Ninguém]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

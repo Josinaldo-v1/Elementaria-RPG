@@ -18,7 +18,3 @@ Hestekia é a espirito que rege sobre os Bruxos, pouco se sabe sobre ela e o que
 
 ## 🖼️ Galeria
 ![[1146181553844649984-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

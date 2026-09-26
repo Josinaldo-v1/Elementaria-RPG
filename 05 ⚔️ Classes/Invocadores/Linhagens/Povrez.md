@@ -23,7 +23,3 @@ A Linhagem Povrez de um invocador é focada em invocar criaturas que possuem vas
 - [[Jorel Henrikó]]
 - [[Robin Diablo (Margot Vergara)|Robbin Diablo]]
 - [[Rei Darius Rex Dragon|Darius Draconico]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

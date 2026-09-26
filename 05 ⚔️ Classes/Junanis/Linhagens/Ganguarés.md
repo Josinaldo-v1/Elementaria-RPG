@@ -23,7 +23,3 @@ A Linhagem Ganguarés de um Junanis é focada em causar danos em grandes propor�
 - [[Harryton Liefde]]
 - [[Alexander Liefde]]
 - [[Lucian Liefde]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

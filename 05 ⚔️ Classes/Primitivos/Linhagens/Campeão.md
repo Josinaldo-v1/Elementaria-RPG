@@ -23,7 +23,3 @@ A Linhagem Campeão de um Primitivo é focada em absorver golpes recebidos e tra
 - [[Catarine Rafelly Grant]]
 - [[Poderosa Aço]]
 - [[Carlo-os Grant]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -21,7 +21,3 @@ fonte: "Planilha de Batalhas v1.00.1 › aba VIDA INIMIGOS / BATALHA"
 
 ## 🎬 Aparições na campanha
 - [[Covil das Aranhas]] — batalha de 20/09/2026 (Planilha de Batalhas)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

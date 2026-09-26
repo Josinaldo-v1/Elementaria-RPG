@@ -23,7 +23,3 @@ Lichtlux é o espirito que rege sobre os Sacerdotes, o que se sabe sobre ele é 
 
 ## 🎬 Aparições na campanha
 - [[EP 42 - Eu olho por Você]] — imagem "LithLux"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

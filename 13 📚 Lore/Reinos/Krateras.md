@@ -36,7 +36,3 @@ A história completa está na nota da classe: [[Escudeiros]], [[Guerreiros]].
 
 ## 🎬 Aparições na campanha
 - [[EP 28 - Antes de Tudo]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

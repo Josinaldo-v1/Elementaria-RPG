@@ -52,7 +52,3 @@ fonte: "https://docs.google.com/spreadsheets/d/1mobDtnB3Z2PEZ41Lvyoylr0PcyyhiYUn
 > - **Noluns (2º Tempo):** **Wayde Ariom** e **Marth Atarah** aparecem como governantes dos Noluns; no DM eles são bruxos e Wayde lidera os perdidos de Rahasia.
 > - **Sacerdotes (1º Tempo):** **Lucifer Pecctor** (o ser Nexus "Lucifer Imaculato"?).
 > - **Caçadores:** a princesa das notícias é **Martella Blake**, e o noivo **Gerrard Pruvullet**; aqui a rainha do 3º Tempo é **Martella Leopold Blake**, com o **(Duque) Leonard Gerrard**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

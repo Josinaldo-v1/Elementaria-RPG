@@ -25,7 +25,3 @@ Local da batalha [[Covil das Aranhas]] (20/09/2026) contra [[Araknoir]] e as [[A
 ## 🎬 Aparições na campanha
 - [[EP 45 - Dona Aranha]] — imagem "Trono de Donna"
 - [[Covil das Aranhas]] — batalha de 20/09/2026 (Planilha de Batalhas)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

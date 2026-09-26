@@ -201,7 +201,3 @@ Ordem de iniciativa **6** · vida perdida **0** → 1000/1000 · mana gasta **0*
 - **🧬 Ficha e poderes:** [[Christopher Lobos · Afinidade|Afinidade]] · [[Christopher Lobos · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Christopher Lobos · Convergências|Convergências]] · [[Christopher Lobos · Feitiços|Feitiços]] · [[Christopher Lobos · Ficha|Ficha]] · [[Christopher Lobos · Modificadores|Modificadores]] · [[Christopher Lobos · Nexus|Nexus]] · [[Christopher Lobos · Origem|Origem]] · [[Christopher Lobos · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Christopher Lobos · Carteira|Carteira]] · [[Christopher Lobos · Cofre|Cofre]] · [[Christopher Lobos · Filiais|Filiais]] · [[Christopher Lobos · Inventário|Inventário]] · [[Christopher Lobos · Mochila|Mochila]] · [[Christopher Lobos · Quarto|Quarto]]
 - **📖 História e documentos:** [[Christopher Lobos · Anotações|Anotações]] · [[Christopher Lobos · Documentos|Documentos]] · [[Christopher Lobos · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

@@ -47,7 +47,3 @@ Chefe da divisão de pacificação do exercito de Krateras. Herdeiro das Terras 
 
 ## 🎬 Aparições na campanha
 - [[EP 35 - Tempos de Gloria]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

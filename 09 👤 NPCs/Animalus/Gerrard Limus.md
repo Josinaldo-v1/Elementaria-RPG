@@ -49,7 +49,3 @@ Gerrard possui poderes de manipulação de terra e uma força descomunal, além 
 
 ## 🖼️ Galeria
 ![[1529814619231883394-1529814618866716703-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -49,7 +49,3 @@ Alcance: 1 a 5 Metros.
 
 ### Revolta da Natureza
 Quando a invocação sofre algum ataque físico o alvo que a atacou deve rodar sorte em caso de derrota ele fica sob o efeito da condição de envenenado I.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

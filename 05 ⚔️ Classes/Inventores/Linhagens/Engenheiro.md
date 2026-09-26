@@ -23,7 +23,3 @@ A Linhagem Engenheira de um Inventor é focada em colocar suas máquinas para tr
 - [[Glenn Bjorn]]
 - [[Lil Joseph]]
 - [[Aisha MetalBlanc]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

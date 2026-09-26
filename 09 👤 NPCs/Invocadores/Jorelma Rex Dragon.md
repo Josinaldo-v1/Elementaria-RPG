@@ -43,7 +43,3 @@ Jorelma é Filha de Julia Rex Dragon a irmã perdida de Darius, Jorelma possui p
 
 ## Citados no registro
 [[Rei Darius Rex Dragon]], [[Julia Rex Dragon]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -48,7 +48,3 @@ Mckenna possui poderes de manipulação da probabilidade, capacidade de anular p
 
 ## 🖼️ Galeria
 ![[1539961367140761601-1539961366851625060-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

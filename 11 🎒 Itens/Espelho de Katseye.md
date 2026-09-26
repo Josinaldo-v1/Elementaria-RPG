@@ -21,7 +21,3 @@ Ao rodar um teste de Sorte e vencer o espelho mostra probabilidades do futuro pr
 
 ### ⚜️ Toque
 Consumindo sua ação de movimento poderá rodar sorte e ao obter sucesso sua ação principal no mesmo turno não consumirá mana
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

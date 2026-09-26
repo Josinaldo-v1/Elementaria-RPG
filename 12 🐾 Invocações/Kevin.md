@@ -64,7 +64,3 @@ Trocando sua ação principal, pode produzir um chá de suas folhas para algum a
 > Os golpes da filial escalam "por nível de Elo". O que é o **Elo** e como ele sobe de nível?
 
 > [!info] Na planilha: "Battle boxe-choy — KEVIN — 150 hp".
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

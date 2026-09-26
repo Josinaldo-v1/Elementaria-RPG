@@ -132,12 +132,9 @@ CALENDARIO
 20ª Mês: Slim (Iceri)  
 - Dia 20: Solstício Iceri & Se por da ultima lua Iceri
 
+
 ###### 📅 14/11/2024
 
 @listerinecr
 
 <small>Fonte: Registro completo do canal **🗺 MUNDO DE ELEMENTARIA 🗺 › 🗓-calendário** (servidor Elementaria - RPG) · 55 mensagens · 25 imagens · 2023-03-18 a 2024-11-14</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

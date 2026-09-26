@@ -16,7 +16,3 @@ Local nº 7 da [[Ilha de Los-Temoros]]. [[Katarina Faria's]] é especialista em 
 
 ## 🎬 Aparições na campanha
 - [[EP 37 - Assuntos Ilícitos]] — imagem "Orquidario de Katarina"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

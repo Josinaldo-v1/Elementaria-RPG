@@ -23,7 +23,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[Templo de Terminus · EP 12 - A Sociedade do Equilíbrio|Templo de Terminus — EP 12: A Sociedade do Equilíbrio]] (30/03/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

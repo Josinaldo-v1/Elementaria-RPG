@@ -36,7 +36,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1455535925571489968/145
 
 ## Resumo
 Atua rei dos invocadores que tomou o trono de escamas após o fim da segunda grande guerra.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -42,7 +42,3 @@ Anotação do Edouard; [[Timoteo D'spade]] é "Receptáculo de Aritnem".
 
 > [!question] [DÚVIDA]
 > O nome não está escrito no canal; veio do nome do arquivo de imagem (Aspecto da mentira, Aritnem). Qual é o nome certo?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

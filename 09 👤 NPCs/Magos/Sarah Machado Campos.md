@@ -48,7 +48,3 @@ Sarah é a membro do conselho nomeada por Dianah, é lesbica e namora Laura Ambr
 
 ## 🎬 Aparições na campanha
 - [[EP 23 - Coincidence]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

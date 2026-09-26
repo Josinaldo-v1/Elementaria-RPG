@@ -35,7 +35,3 @@ Toda dano causado por feitiços de Sacerdotes tem seu valor de dano final duplic
 
 > [!question] [DÚVIDA]
 > O efeito **Arcenal Branco** está só como "(...)" na planilha.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

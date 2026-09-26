@@ -44,7 +44,3 @@ Alex é filho de Theia Qin (Flechette) e William Peralta (Diabrette) irmão geme
 
 ## 🖼️ Galeria
 ![[1430999132792815669-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

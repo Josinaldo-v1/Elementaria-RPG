@@ -38,7 +38,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092040026652793/151
 
 ## Resumo
 Chefe da primeira e mais forte divisão balistica do exercito de Krateras. Assitente pessoal Mágica da familia real de Krateras.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

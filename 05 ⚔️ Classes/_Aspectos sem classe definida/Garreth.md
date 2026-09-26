@@ -21,7 +21,3 @@ EP 40 — O Portão III: A Dádiva.
 
 ## 🎬 Aparições na campanha
 - [[EP 40 - A Mulher Gigante]] — imagem "Garreth - O Aspecto da Dádiva"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

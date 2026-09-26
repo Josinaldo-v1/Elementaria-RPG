@@ -19,7 +19,3 @@ Imagem "Àgora do Amanhã: Pátio do Exército de Connor" (EP 41). Ver [[Ágora 
 
 ## 🎬 Aparições na campanha
 - [[EP 41 - Eu ainda estou de pé]] — imagem "Àgora do Amanha: Patio do Exercito de Connor"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

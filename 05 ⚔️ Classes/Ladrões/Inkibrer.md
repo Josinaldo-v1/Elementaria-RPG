@@ -18,7 +18,3 @@ Inkibrer é o espirito que rege sobre os Ladrões, o que se sabe sobre ele é qu
 
 ## 🖼️ Galeria
 ![[1190370777019723786-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

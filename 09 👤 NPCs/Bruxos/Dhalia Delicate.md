@@ -36,7 +36,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1421259470104957120/152
 
 ## Resumo
 Bruxa fundadora da congregação das Eras, uma irmandade de mulheres com o intuito de ficarem ricas e influentes (Dhalia tem afinidade com as Trevas).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

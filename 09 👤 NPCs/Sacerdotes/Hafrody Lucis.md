@@ -49,7 +49,3 @@ Hafrody possui afinidade com a natureza e poderes voltados para a charme e persu
 ## 🎬 Aparições na campanha
 - [[EP 12 - Pedacinho do Céu]]
 - [[EP 16 - Ninguém te Contou]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

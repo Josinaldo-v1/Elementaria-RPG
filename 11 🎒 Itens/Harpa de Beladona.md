@@ -51,7 +51,3 @@ Canal **Lendario(Áqua-Marine) › costas** ([link](https://discord.com/channels
 ### 👤 Origem e portadores
 - **Origem:** **Beladona Leafcake**
 - **Portador:** [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

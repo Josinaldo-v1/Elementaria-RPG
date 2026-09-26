@@ -49,7 +49,3 @@ A Anátema da Família e mãe de Jack Kenway, casada com Paul Kenway e orientado
 
 ## 🎬 Aparições na campanha
 - [[EP 43 - Noites de Verão]] — imagem "Gloria "Family" Kenway"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

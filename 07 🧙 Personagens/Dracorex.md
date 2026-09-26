@@ -215,7 +215,3 @@ Ordem de iniciativa **5** · vida perdida **184** → 916/1100 · mana gasta **5
 - **🧬 Ficha e poderes:** [[Dracorex · Afinidade|Afinidade]] · [[Dracorex · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Dracorex · Convergências|Convergências]] · [[Dracorex · Feitiços|Feitiços]] · [[Dracorex · Ficha|Ficha]] · [[Dracorex · Modificadores|Modificadores]] · [[Dracorex · Nexus|Nexus]] · [[Dracorex · Origem|Origem]] · [[Dracorex · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Dracorex · Carteira|Carteira]] · [[Dracorex · Cofre|Cofre]] · [[Dracorex · Filiais|Filiais]] · [[Dracorex · Inventário|Inventário]] · [[Dracorex · Mochila|Mochila]] · [[Dracorex · Quarto|Quarto]]
 - **📖 História e documentos:** [[Dracorex · Anotações|Anotações]] · [[Dracorex · Documentos|Documentos]] · [[Dracorex · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

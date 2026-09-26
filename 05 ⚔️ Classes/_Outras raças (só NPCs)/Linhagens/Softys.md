@@ -20,7 +20,3 @@ A Linhagem Softys de um Nautilus é focada em autoproteção e proteção aliada
 - **Umma Ursula Kalistos**
 - [[Merida Marmady|Mérida Marmady]]
 - **Rei Henry Kalistos Ursula**
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

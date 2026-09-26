@@ -23,7 +23,3 @@ A Linhagem Ukrep de um invocador é focada em amplificar a capacidade de suas in
 - [[Heitor Fabrini]]
 - [[Arthur Fabrini]]
 - [[Jorelma Henrikó]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

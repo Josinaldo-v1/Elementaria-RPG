@@ -18,7 +18,3 @@ Fee é o espirito que rege sobre as Fadas, o que se sabe sobre ela devido aos co
 
 ## 🖼️ Galeria
 ![[1184553607517982750-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

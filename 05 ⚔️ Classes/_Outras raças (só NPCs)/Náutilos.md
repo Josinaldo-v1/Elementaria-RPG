@@ -61,7 +61,3 @@ Oppervlak — *A Dama das Profundezas* (gêmea de [[Kalvreppo]], o Cavaleiro da 
 
 ### ✨ Poderes
 Lista completa em [[Poderes — Náutilos]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

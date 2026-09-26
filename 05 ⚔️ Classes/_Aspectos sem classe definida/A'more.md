@@ -23,7 +23,3 @@ EP 39 — O Portão II: A Abundância.
 ## 🎬 Aparições na campanha
 - [[EP 39 - Tempestade]] — imagem "A'more - O Aspecto da Abundancia"
 - [[EP 40 - A Mulher Gigante]] — imagem "A'more - O Aspecto da Abundancia"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

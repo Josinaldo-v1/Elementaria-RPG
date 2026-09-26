@@ -64,7 +64,3 @@ Canal **Primitivos › linhagens**.
 ![[1212887826215997530-Primitivos.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

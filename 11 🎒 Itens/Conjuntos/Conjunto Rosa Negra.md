@@ -36,7 +36,3 @@ fonte:
 |---|---|---|---|
 | [[Elmo Rosa Negra]] | 🔴 Especial | Capacete | — |
 | [[Escudo da Rosa Negra]] | 💧 Lendário | Escudo Grande | [[Cássio Ramos]] |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

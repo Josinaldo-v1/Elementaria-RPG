@@ -20,7 +20,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 ## NPCs desta classe/raça
 - [[Donna Ranya]]
 - [[Gerrard Limus]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

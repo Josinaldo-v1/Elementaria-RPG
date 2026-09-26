@@ -35,7 +35,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1514596712977797190"
 ### 👤 Origem e portadores
 - **Origem:** **Seraphine Angel**
 - **Portador:** **..........................................................................................................................**
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

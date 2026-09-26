@@ -40,7 +40,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092358533714051/152
 
 ## Resumo
 Major dos Corujas Obsidian.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

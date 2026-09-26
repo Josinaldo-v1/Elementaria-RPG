@@ -23,7 +23,3 @@ EP 39 — O Portão I: A Profecia.
 ## 🎬 Aparições na campanha
 - [[EP 39 - Tempestade]] — imagem "Pryfia - O Aspecto da Profecia"
 - [[EP 40 - A Mulher Gigante]] — imagem "Pryfia - O Aspecto da Profecia"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

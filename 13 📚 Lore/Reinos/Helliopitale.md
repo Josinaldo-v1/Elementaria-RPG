@@ -35,7 +35,3 @@ Reino no **plano de Hellios**, acessível só por portais específicos que apena
 
 > [!warning] [CONFLITO]
 > Grafia do reino: **Helliopitale** e **Hellioptale** no mesmo texto.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

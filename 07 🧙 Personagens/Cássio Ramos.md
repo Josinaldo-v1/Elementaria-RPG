@@ -301,7 +301,3 @@ Ordem de iniciativa **4** · vida perdida **219** → 731/950 · mana gasta **45
 - **🧬 Ficha e poderes:** [[Cássio Ramos · Afinidade|Afinidade]] · [[Cássio Ramos · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Cássio Ramos · Convergências|Convergências]] · [[Cássio Ramos · Feitiços|Feitiços]] · [[Cássio Ramos · Ficha|Ficha]] · [[Cássio Ramos · Modificadores|Modificadores]] · [[Cássio Ramos · Nexus|Nexus]] · [[Cássio Ramos · Origem|Origem]] · [[Cássio Ramos · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Cássio Ramos · Carteira|Carteira]] · [[Cássio Ramos · Cofre|Cofre]] · [[Cássio Ramos · Filiais|Filiais]] · [[Cássio Ramos · Inventário|Inventário]] · [[Cássio Ramos · Mochila|Mochila]] · [[Cássio Ramos · Quarto|Quarto]]
 - **📖 História e documentos:** [[Cássio Ramos · Anotações|Anotações]] · [[Cássio Ramos · Documentos|Documentos]] · [[Cássio Ramos · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

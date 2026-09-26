@@ -35,7 +35,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1509542335938297976"
 ### 👤 Origem e portadores
 - **Origem:** **Lunara Hikari**
 - **Portador:** —
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

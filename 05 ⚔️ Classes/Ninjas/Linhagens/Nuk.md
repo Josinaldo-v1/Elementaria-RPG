@@ -23,7 +23,3 @@ A Linhagem Nuk de um ninja é focada em golpear inimigos de formas furtivas e sa
 - [[Katshuyo Tuya]]
 - [[Gargolius Jhin]]
 - [[Matarazzo Tuya]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

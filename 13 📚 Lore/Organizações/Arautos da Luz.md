@@ -45,7 +45,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 
 ## 🎬 Aparições na campanha
 - [[EP 12 - Pedacinho do Céu]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -150,7 +150,3 @@ Canal **BRUXOS › linhagens**.
 ![[1146173883238584381-image.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

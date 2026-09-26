@@ -33,7 +33,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 
 > [!warning] Observação
 > O título é "Poção de pés velozes", mas as fichas dizem "pés rápidos" — e os níveis II a V repetem o nome "Poção de invisibilidade" (cópia).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -23,7 +23,3 @@ A Linhagem Templário de um Guerreiro é focada em golpear inimigos no corpo a c
 - [[Charlotte Greenleaf|Charlote Greenleaf]]
 - [[Heraklion Segundo]]
 - [[Brutos Barton]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

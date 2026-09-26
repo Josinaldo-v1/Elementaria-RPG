@@ -50,7 +50,3 @@ Donna possui poderes de controle de teias vivas, possui a capacidade de invocar 
 
 ## 🖼️ Galeria
 ![[1529824193036681459-1529824192520912998-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

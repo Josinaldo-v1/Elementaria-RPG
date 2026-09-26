@@ -15,7 +15,3 @@ fonte: "https://discord.com/channels/1454185695932321825/1454188122316214294"
 ![[1454197937251946738-8PUnO4tCDZxlAVJ_Haa-cVUx75hFcXO0FNyofZk-YFYzC0L5DN7-wuzo7xS7KwRgdGbAs1024-rj.webp|320]]
 
 > [!quote] *O Aspecto do Elo* — aspecto dos [[Náutilos]] (servidor Elementaria Lore)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

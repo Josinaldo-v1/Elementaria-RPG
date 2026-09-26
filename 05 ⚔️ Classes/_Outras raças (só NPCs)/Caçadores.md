@@ -22,7 +22,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 - [[Alexandre 'Alex' Qin (Reves)]]
 - [[Illina Kroom]]
 - [[Mekako Tuya]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

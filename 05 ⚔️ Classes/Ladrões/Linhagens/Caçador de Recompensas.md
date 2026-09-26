@@ -23,7 +23,3 @@ A Linhagem Caçador de Recompensas de um ladrão é focada em se manter estrateg
 - [[Larissa Carvalho]]
 - [[Bailey Clay]]
 - [[Jessy Cannon]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -47,7 +47,3 @@ Kaliah é uma das princesas de Malokan, uma dos trigêmeos (junto a Kaio e Karie
 
 ## 🖼️ Galeria
 ![[1534172619232776382-3b0be79a-4f5a-47e3-8be1-89904de66f02.webp|240]] ![[1534173033072300283-f779a7de-1335-4c82-b1be-2a2e645c769a.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

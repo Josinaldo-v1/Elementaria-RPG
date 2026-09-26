@@ -48,7 +48,3 @@ Membro da Àgora do Amanhã e braço direito de Connor, inventor da transferenci
 
 ## 🖼️ Galeria
 ![[1523792987073679574-1523792986347929651-image.webp|240]] ![[1523792987073679574-1523792986771820706-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

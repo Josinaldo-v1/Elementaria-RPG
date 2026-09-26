@@ -78,7 +78,3 @@ Bruxa que se está se descobrindo Nollum e gerencia a ilha de Inagua ao lado de 
 - [[EP 01 - Renascer]] — imagem "Daphyne"
 - [[EP 20 - Mestra dos Marionetes]] — imagem "Daphyne"
 - [[EP 42 - Eu olho por Você]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

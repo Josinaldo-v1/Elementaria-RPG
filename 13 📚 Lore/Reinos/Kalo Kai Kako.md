@@ -28,7 +28,3 @@ A história completa está na nota da classe: [[Magos]].
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[A Volta para o Terceiro Tempo · EP 03 - Kalo Kai Kako a Escola dos Magos|A Volta para o Terceiro Tempo — EP 3: Kalo Kai Kako a Escola dos Magos]] (21/07/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

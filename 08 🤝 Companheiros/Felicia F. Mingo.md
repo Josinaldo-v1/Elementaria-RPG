@@ -66,7 +66,3 @@ Aliado, ordem de iniciativa **10** · vida perdida **255** → 345/600
 - [[EP 37 - Assuntos Ilícitos]] — imagem "Felicia Mingo Ergeu"
 - [[EP 42 - Eu olho por Você]]
 - [[Covil das Aranhas]] — batalha de 20/09/2026 (Planilha de Batalhas)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

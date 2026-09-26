@@ -225,7 +225,3 @@ Ordem de iniciativa **8** · vida perdida **0** → 1000/1000 · mana gasta **0*
 - **🧬 Ficha e poderes:** [[Calypso Ezeriel · Afinidade|Afinidade]] · [[Calypso Ezeriel · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Calypso Ezeriel · Convergências|Convergências]] · [[Calypso Ezeriel · Feitiços|Feitiços]] · [[Calypso Ezeriel · Ficha|Ficha]] · [[Calypso Ezeriel · Modificadores|Modificadores]] · [[Calypso Ezeriel · Nexus|Nexus]] · [[Calypso Ezeriel · Origem|Origem]] · [[Calypso Ezeriel · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Calypso Ezeriel · Carteira|Carteira]] · [[Calypso Ezeriel · Cofre|Cofre]] · [[Calypso Ezeriel · Filiais|Filiais]] · [[Calypso Ezeriel · Inventário|Inventário]] · [[Calypso Ezeriel · Mochila|Mochila]] · [[Calypso Ezeriel · Quarto|Quarto]]
 - **📖 História e documentos:** [[Calypso Ezeriel · Anotações|Anotações]] · [[Calypso Ezeriel · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

@@ -47,7 +47,3 @@ Hebus possui afinidade com o Fogo e poderes voltados para combustão e purifica�
 
 ## 🎬 Aparições na campanha
 - [[EP 27 - Crueldade]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

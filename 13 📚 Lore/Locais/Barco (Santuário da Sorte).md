@@ -46,7 +46,3 @@ Cada área do barco tem vantagens próprias (testes, estoques, companheiros vinc
 
 - [[Barco · Fogo|Fogo]]
 - [[Barco · Natureza|Natureza]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

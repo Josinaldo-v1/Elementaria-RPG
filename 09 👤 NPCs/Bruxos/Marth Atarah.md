@@ -33,7 +33,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1421259579777355796/152
 
 ## Resumo
 Marth abriu mão do cargo de Rei e foi em busca do amor da sua vida em outro plano, iventor da convergencia runica de criação de vida, um dos Pais de Moira Atarah (Primeira ser de elementaria nascida de uma convergencia)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

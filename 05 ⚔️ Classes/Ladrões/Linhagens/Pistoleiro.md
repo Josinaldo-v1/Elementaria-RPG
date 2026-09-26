@@ -23,7 +23,3 @@ A Linhagem Pistoleira de um ladrão é focada em manter a calma e focar um inimi
 - [[Kevin Clay]]
 - [[Barbara Juliard]]
 - [[Sadina Riverork]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

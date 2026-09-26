@@ -18,7 +18,3 @@ fonte:
 
 > [!question] [DÚVIDA]
 > O canal 🐾filial tem só o nome e uma imagem; as habilidades do fantoche não foram publicadas.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -61,7 +61,3 @@ Canal **RUMBANDS › linhagens**.
 ![[1190380806280056973-Macumbeiro_1.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -57,7 +57,3 @@ Zack possui poderes de alterar a densidade corporal e deixar sua pele blindada a
 ## 🎬 Aparições na campanha
 - [[EP 31 - Limpo]]
 - [[EP 33 - Culpado como pecado]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

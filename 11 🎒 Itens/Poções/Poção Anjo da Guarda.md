@@ -25,7 +25,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 
 > [!warning] Observação
 > O título diz "Poção anjo guardião"; a ficha diz "Poção anjo da guarda".
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

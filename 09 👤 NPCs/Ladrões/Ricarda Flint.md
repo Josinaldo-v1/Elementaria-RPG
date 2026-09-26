@@ -48,7 +48,3 @@ Ricarda possui poderes de manipulação de Areia, é capaz de mimetizar a própr
 
 ## 🖼️ Galeria
 ![[1539956621629722714-1539956621160222850-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

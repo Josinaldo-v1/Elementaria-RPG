@@ -18,7 +18,3 @@ Desde que fui selecionado para me tornar um **protetor dos aspectos** precisei p
 ![[1370829332380913775-tess.webp|260]]
 
 <small>Fonte: Acervo Coletivo</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

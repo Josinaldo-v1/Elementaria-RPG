@@ -45,7 +45,3 @@ Ao chegar onde Miranda havia dito que ficava a cabana da velha senhora após mes
 Após todos esses acontecimentos Jin começou a investigar a razão na qual fez seu pai chegar naquele estado, ele sabia que seu pai havia servido num exercito de elite do reino de  Draconia o reino dos invocadores e que isso havia causado alguns problemas no psicológico dele.
 
 Jin também tinha que viver com o fato de que desde o fim da guerra, invocadores não era bem vistos e até considerado criminosos em alguns lugares do mundo.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

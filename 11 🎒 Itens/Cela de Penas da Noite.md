@@ -39,7 +39,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1509543129773117521"
 ### 👤 Origem e portadores
 - **Origem:** **Mikel Valorian**
 - **Portador:** **..........................................................................................................................**
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

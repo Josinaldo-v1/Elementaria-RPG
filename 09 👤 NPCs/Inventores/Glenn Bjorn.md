@@ -44,7 +44,3 @@ Glenn Bjorn foi o primeiro Rei dos inventores
 Retrato do canal **🎮Eventos Sazonais › personagens-mencionados** (normal e versão IA).
 
 ![[1169714086842470500-Gleen_Bjorn.webp|240]] ![[1169714086842470500-Glenn_Bjorn.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

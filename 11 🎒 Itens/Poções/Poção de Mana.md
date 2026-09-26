@@ -25,7 +25,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 
 > [!warning] Observação
 > Publicado como "Poção de Mana I a V", mas só o nível I tem ficha.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

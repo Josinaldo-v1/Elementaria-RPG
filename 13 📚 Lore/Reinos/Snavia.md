@@ -30,7 +30,3 @@ fonte:
 - Telliph
 
 A história completa está na nota da classe: [[Primitivos]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

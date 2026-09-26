@@ -304,7 +304,3 @@ Ordem de iniciativa **1** · vida perdida **0** → 900/900 · mana gasta **660*
 - **🧬 Ficha e poderes:** [[Ophelia Benigtus · Afinidade|Afinidade]] · [[Ophelia Benigtus · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Ophelia Benigtus · Convergências|Convergências]] · [[Ophelia Benigtus · Feitiços|Feitiços]] · [[Ophelia Benigtus · Ficha|Ficha]] · [[Ophelia Benigtus · Modificadores|Modificadores]] · [[Ophelia Benigtus · Nexus|Nexus]] · [[Ophelia Benigtus · Origem|Origem]] · [[Ophelia Benigtus · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Ophelia Benigtus · Carteira|Carteira]] · [[Ophelia Benigtus · Cofre|Cofre]] · [[Ophelia Benigtus · Filiais|Filiais]] · [[Ophelia Benigtus · Inventário|Inventário]] · [[Ophelia Benigtus · Mochila|Mochila]] · [[Ophelia Benigtus · Quarto|Quarto]]
 - **📖 História e documentos:** [[Ophelia Benigtus · Anotações|Anotações]] · [[Ophelia Benigtus · Documentos|Documentos]] · [[Ophelia Benigtus · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

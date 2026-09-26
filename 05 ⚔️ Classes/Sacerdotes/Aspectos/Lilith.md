@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1354628088138436678"
 *O Aspecto da Religião* — canal **Sacerdotes › aspectos**.
 
 ![[1354634987202154598-Lilith_-_Religiao.webp|300]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

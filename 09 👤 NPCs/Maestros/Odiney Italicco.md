@@ -43,7 +43,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422984133771446/143
 
 ## Citados no registro
 [[Tchelo Mosart]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

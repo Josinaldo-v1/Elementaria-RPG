@@ -23,7 +23,3 @@ A Linhagem Bucaneira de um pirata é focada em zonear áreas do campo de batalha
 - Karma Meridian
 - [[Darius Richtofen]]
 - [[Pollo Bartolomeu]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

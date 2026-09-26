@@ -30,7 +30,3 @@ fonte:
 - Houyan
 
 A história completa está na nota da classe: [[Ninjas]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

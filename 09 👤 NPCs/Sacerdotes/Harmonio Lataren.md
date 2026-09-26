@@ -47,7 +47,3 @@ Harmonio possui afinidade com o Vento e poderes voltados para a manipulação de
 
 ## 🎬 Aparições na campanha
 - [[EP 27 - Crueldade]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

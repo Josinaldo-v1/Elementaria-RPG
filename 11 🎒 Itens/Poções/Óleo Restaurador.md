@@ -26,7 +26,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 | III | ... recupera em 100% | 3 | Ofício DT 25 · Mecânica DT 20 |
 
 **Receita:** 50 ml de óleo mineral dourado – 50g de areia dourada – 50 ml de óleo especial de minúsculo
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

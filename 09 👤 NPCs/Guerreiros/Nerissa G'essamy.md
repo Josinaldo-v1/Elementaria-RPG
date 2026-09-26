@@ -48,7 +48,3 @@ General dos Elmos de Fogo que está presa no universo de Elementaria.
 ## 🎬 Aparições nas campanhas anteriores
 - [[Templo de Terminus · EP 02 - Nerissa G'essamy a Major dos Elmos de Fogo|Templo de Terminus — EP 2: Nerissa G'essamy a Major dos Elmos de Fogo]] (14/01/2024)
 - [[Templo de Terminus · EP 04 - A Reunião|Templo de Terminus — EP 4: A Reunião]] (28/01/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

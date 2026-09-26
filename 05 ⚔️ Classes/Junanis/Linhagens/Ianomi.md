@@ -23,7 +23,3 @@ A Linhagem Ianomi de um junanis é focada em sustentar sua equipe em batalha, ge
 - [[Pedro Oceani's]]
 - [[Rainha Preta]]
 - [[Pedro Liefde]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

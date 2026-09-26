@@ -76,7 +76,3 @@ Nocolla
 ## 🎬 Aparições na campanha
 - [[EP 09 - Onda, Onda Olha a Onda]]
 - [[EP 42 - Eu olho por Você]] — imagem "Nicolla Orbs"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

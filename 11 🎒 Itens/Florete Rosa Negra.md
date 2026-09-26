@@ -29,7 +29,3 @@ Golpes no modo chicote aplicam envenado I ao acertar e golpes no modo florete se
 
 > [!question] [DÚVIDA]
 > O que significa o contador com 📈 (ex.: (0/3)📈)? Nível de aprimoramento da arma?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

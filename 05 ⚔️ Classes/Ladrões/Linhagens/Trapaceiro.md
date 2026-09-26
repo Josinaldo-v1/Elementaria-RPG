@@ -23,7 +23,3 @@ A Linhagem Trapaceiro de um Ladrão é focada em colocar seus inimigos em situa�
 - [[Jhon Cley]]
 - [[Petunia Clay]]
 - [[Ashe Morrigan]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

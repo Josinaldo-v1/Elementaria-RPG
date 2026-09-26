@@ -25,7 +25,3 @@ Diário de **Agatha Kukoki**, a "Diretora Renegada", que quer reunir **cinco di�
 - Agatha abriu brechas temporais e roubou objetos de cada um (mapa de Victorie, primeira caixa de tesouros de Jack, cartola do primo de Ophelia...), planejando atraí-los à **Garganta da Bruxa**.
 
 > [!note] Várias entradas foram postadas pelo mestre (Maxzinho) em 11/04/2024.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -21,7 +21,3 @@ A Linhagem Atoys de um Nautilus é focada em atingir seus inimigos a queima-roup
 - [[Victorie Kallistos|Princesa Victorie Ursula Kalistos]]
 - [[Rainha Ariana Ursula]]
 - **Alice Motta**
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

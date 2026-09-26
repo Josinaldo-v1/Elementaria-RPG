@@ -17,7 +17,3 @@ Ilha que aparece no EP 39, com **estatuetas nas pilastras** e os [[Portões da I
 ## 🎬 Aparições na campanha
 - [[EP 39 - Tempestade]] — imagem "Ilha no céu"
 - [[EP 39 - Tempestade]] — imagem "Estatuetas nas pilatras"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

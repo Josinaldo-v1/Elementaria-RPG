@@ -48,7 +48,3 @@ Cintia é filha de Timoteo D'spade e Katarine D'spade e é a lider da caçada da
 
 ## 🎬 Aparições na campanha
 - [[EP 05 - Subindo aquela colina]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

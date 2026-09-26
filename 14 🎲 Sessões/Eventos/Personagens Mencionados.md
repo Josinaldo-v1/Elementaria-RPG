@@ -71,7 +71,3 @@ Canal **🎮Eventos Sazonais › personagens-mencionados** (24 personagens).
 | **Category is:  JACARÉ MONTERO** | ![[1249458466905653299-4daacc09155042be845f4da795aee82e.webp\|120]] |
 | **Category Is:   EROS LEAFCAKE** | ![[1249461709333336064-2e1924dc011b49979885e330a7b6fca7.webp\|120]] |
 | **Loki** | ![[1317181322644426855-Loki.webp\|120]] |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -35,7 +35,3 @@ O portador da máscara recebe +3 de dano final de trevas aplicado em arma por al
 Se torna imune a amedrontado, Instigado e Possuído.
 ### ⚜️ Reinu perdido
 Recebe ou aplica em um aliado vantagem em testes de história uma vez por cena.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

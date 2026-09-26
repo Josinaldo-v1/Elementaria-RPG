@@ -28,7 +28,3 @@ A história completa está na nota da classe: [[Bruxos]].
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[A Volta para o Terceiro Tempo · EP 10 - Dias de um Futuro Esquecido|A Volta para o Terceiro Tempo — EP 10: Dias de um Futuro Esquecido]] (08/09/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -36,7 +36,3 @@ fonte:
 | [[Cela de Penas da Noite]] | 🔴 Especial | Cela | **..........................................................................................................................** |
 | [[Amuleto Fúria da Noite]] | 🟢 Épico | Amuleto | [[Calypso Ezeriel]] |
 | [[Hipogrifo da Noite]] | ⚫ Comum | Filial | [[Calypso Ezeriel]] |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

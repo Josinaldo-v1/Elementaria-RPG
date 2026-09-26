@@ -47,7 +47,3 @@ Quando a invocação morre por tempo de duração ou por pontos de vida perdidos
 
 > [!warning] [CONFLITO]
 > O título da invocação na planilha é **PIXIE**, mas o poder que a invoca e os textos chamam de **Pixel**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

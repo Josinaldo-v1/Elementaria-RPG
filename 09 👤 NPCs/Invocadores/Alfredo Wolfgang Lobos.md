@@ -40,7 +40,3 @@ Irmão deserdado de Lopato Wolfgang
 
 ## Citados no registro
 [[Lopato Wolfgang Lobos]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

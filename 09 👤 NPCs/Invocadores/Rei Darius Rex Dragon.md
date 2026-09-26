@@ -56,7 +56,3 @@ Darius foi o Rei dos invocadores durante o periodo da segunda grande Guerra, pos
 ## 🎬 Aparições nas campanhas anteriores
 - [[Sindicato da Desordem · EP 14 - Código Floratta|Sindicato da Desordem — EP 14: Código Floratta]] (07/12/2024)
 - [[A Volta para o Terceiro Tempo · EP 05 - O Ultimo Invocador de Dragão|A Volta para o Terceiro Tempo — EP 5: O Ultimo Invocador de Dragão]] (04/08/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

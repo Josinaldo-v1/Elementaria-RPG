@@ -18,7 +18,3 @@ Zamastrier é o espirito que rege sobre os Escudeiros, o que se sabe sobre ele �
 
 ## 🖼️ Galeria
 ![[1354623511200530484-Zamastrier.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

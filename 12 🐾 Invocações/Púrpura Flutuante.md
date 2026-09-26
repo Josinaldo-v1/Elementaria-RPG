@@ -56,7 +56,3 @@ Enquanto o Elo portar a Purpura Flutuante e ela estiver com mais de 50% da sua v
 
 > [!question] [DÚVIDA]
 > Os golpes da filial escalam "por nível de Elo". O que é o **Elo** e como ele sobe de nível?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

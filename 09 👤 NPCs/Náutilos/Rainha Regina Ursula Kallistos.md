@@ -42,7 +42,3 @@ A Terceira Madrecorallis de Malokan e atual governante, com poderes de manipula�
 
 ## 🖼️ Galeria
 ![[1534168490351788162-72eb7414-cc9f-471a-8357-0d7d58f7dc40.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

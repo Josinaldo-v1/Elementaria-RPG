@@ -51,7 +51,3 @@ Chefe da divisão de inteligência do exercito de Krateras e Portadora da Anáte
 - [[EP 33 - Culpado como pecado]]
 - [[EP 33 - Culpado como pecado]] — imagem "Charlotte Greenleaf [Anátema da Dor: Ryst]"
 - [[EP 35 - Tempos de Gloria]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

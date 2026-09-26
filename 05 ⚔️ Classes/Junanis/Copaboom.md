@@ -18,7 +18,3 @@ Copaboom é o espirito que rege sobre os Junanis, o que se sabe sobre ele devido
 
 ## 🖼️ Galeria
 ![[1177288670135451779-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

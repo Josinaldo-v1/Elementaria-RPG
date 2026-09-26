@@ -54,7 +54,3 @@ Também publicados só como imagem: **Alastor** e **Ciclo dos Elementos**.
 - [[EP 36 - Filhos de Ninguém]] — imagem "Acima de Los Temoros"
 - imagens "Los Temoros" e "Acima de Los Temoros" publicadas em 15/06/2026, antes do EP 37
 - [[EP 41 - Eu ainda estou de pé]] — imagem "Base da Ágora do Amanhã"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -23,7 +23,3 @@ A Linhagem Jagter de um Rumbands é focada em zonear áreas do campo de batalha 
 - [[Lannor Mwangi]]
 - [[Trevis Harper]]
 - [[Kendrick Pontas]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

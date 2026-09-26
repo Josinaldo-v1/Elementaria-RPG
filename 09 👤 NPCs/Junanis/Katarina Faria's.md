@@ -52,7 +52,3 @@ Katarina possui poderes de manipulação de roseiras e venenos herbais, é espec
 
 ## 🖼️ Galeria
 ![[1529803616125456405-1529803615823331379-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

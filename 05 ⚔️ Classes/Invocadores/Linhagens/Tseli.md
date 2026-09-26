@@ -23,7 +23,3 @@ A Linhagem Tseli de um invocador é focada em invocar criaturas que são capazes
 - [[Jores Henrikó]]
 - [[Wolfgang Lobos]]
 - [[Lupino Lobos]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

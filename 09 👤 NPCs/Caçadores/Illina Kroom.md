@@ -45,7 +45,3 @@ Evva possui poderes de manipulação metal, manipulação e ciração de gelo, d
 
 > [!warning] [CONFLITO]
 > O resumo fala de **Evva** e é idêntico ao resumo de [[Evva Knox]]. O resumo real da Illina parece não ter sido escrito.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

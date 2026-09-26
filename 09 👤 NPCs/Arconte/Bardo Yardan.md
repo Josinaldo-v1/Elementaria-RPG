@@ -40,7 +40,3 @@ Bardo Yardan é o pai de Calypso Ezreal e é Tenente exemplar do exercito dos An
 
 ## Citados no registro
 [[Calypso Ezeriel]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

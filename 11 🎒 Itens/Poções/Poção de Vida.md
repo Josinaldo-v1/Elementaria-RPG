@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1189027467759996988"
 
 > [!warning] Observação
 > Vista no inventário do [[Edouard Acer]] (Poção de Vida II, peso 5).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

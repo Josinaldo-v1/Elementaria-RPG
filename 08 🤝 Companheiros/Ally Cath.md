@@ -72,7 +72,3 @@ Melhor amiga de Nicolla Orbes
 ## 🎬 Aparições na campanha
 - [[EP 25 - Caminho da Vitoria]]
 - [[EP 42 - Eu olho por Você]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

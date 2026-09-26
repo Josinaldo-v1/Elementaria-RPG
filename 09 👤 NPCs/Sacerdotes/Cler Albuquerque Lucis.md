@@ -39,7 +39,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1438687475424952452/143
 
 ## Resumo
 Foi eleita conselheira pelo conselho dos Arautos da Luz, quando Caput Lucis foi questionada sobre mulheres na liderança.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

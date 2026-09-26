@@ -26,11 +26,9 @@ A própria Oppervlak deixou claro, através dos sussurros empáticos passados de
 
 "O Diadema não pertence aos tempos de paz, pois a calmaria já é a minha coroa. Quando os planos de Elementaria tremerem, quando as vias aquáticas se romperem e o plano de Malokan estiver em absoluto colapso e desequilíbrio espiritual... as águas se abrirão. Na hora do desespero, o Diadema se fará presente. Ele não escolherá o mais forte, nem o de sangue mais nobre, mas sim Aquele que For Merecedor — a mente capaz de carregar o peso do abismo sem se quebrar."
 
+
+
 Para os Náutilos, o Diadema Abissal é a garantia definitiva de sua existência. Enquanto o reino prospera sob a moeda de coral e a diplomacia iniciada por Ariel Úrsula que foi ensinada pessoalmente por Oppervlak, o Diadema permanece invisível, dissolvido na própria água do plano. Mas todos sabem que, se um dia o caos da superfície ou a corrupção elemental ameaçarem extinguir a paz interior de Malokan, a Dama estenderá sua mão fluida através do merecedor, e o poder do abismo se erguerá mais uma vez.
 
 > [!question] [DÚVIDA]
 > "Armas da Esperança" é a raridade **Esperança** (Branco/Cristal) da tabela de [[Raridades]]? Quem é **Ariel Úrsula**, que iniciou a diplomacia de Malokan — a mesma Ariel Marmoiry do servidor DM?
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

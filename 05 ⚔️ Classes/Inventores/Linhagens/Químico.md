@@ -23,7 +23,3 @@ A Linhagem Química de um Inventor é focada em aplicar condições negativas e 
 - [[Maximoff Hellstell]]
 - [[Frelijorn Tesla]]
 - [[Taylor Planck]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

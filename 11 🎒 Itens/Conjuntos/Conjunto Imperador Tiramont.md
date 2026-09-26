@@ -32,7 +32,3 @@ fonte:
 |---|---|---|---|
 | [[Marreta de Tiramont]] | 🟢 Épico | Martelo | — |
 | [[Pingente de Tiramont]] | 🟢 Épico | Amuleto | [[Cássio Ramos]] |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

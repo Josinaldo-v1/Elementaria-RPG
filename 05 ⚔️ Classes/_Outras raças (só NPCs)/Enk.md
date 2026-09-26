@@ -12,7 +12,3 @@ fonte: "https://docs.google.com/spreadsheets/d/1mobDtnB3Z2PEZ41Lvyoylr0PcyyhiYUn
 > [!abstract] Espírito dos [[Vampiros]] — aba **Mitologia Elementaria** da planilha do mestre.
 
 Nenhum aspecto listado.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

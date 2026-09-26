@@ -262,7 +262,3 @@ Ordem de iniciativa **2** · vida perdida **66** → 934/1000 · mana gasta **13
 - **🧬 Ficha e poderes:** [[Jack Kenway · Afinidade|Afinidade]] · [[Jack Kenway · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Jack Kenway · Convergências|Convergências]] · [[Jack Kenway · Feitiços|Feitiços]] · [[Jack Kenway · Ficha|Ficha]] · [[Jack Kenway · Modificadores|Modificadores]] · [[Jack Kenway · Nexus|Nexus]] · [[Jack Kenway · Origem|Origem]] · [[Jack Kenway · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Jack Kenway · Carteira|Carteira]] · [[Jack Kenway · Cofre|Cofre]] · [[Jack Kenway · Filiais|Filiais]] · [[Jack Kenway · Inventário|Inventário]] · [[Jack Kenway · Mochila|Mochila]] · [[Jack Kenway · Quarto|Quarto]]
 - **📖 História e documentos:** [[Jack Kenway · Anotações|Anotações]] · [[Jack Kenway · Documentos|Documentos]] · [[Jack Kenway · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

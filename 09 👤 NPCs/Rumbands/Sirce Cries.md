@@ -37,7 +37,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1455535632456876138/145
 
 ## Resumo
 Após ser trasida do plano nexus para elementaria, Sirce se tornou a lider da comunidade feminina de Arbotown ensinando a todas a mulheres do lugar a serem mais poderosas e terem mais controle sob seus poderes em troca de lealdade extrema.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

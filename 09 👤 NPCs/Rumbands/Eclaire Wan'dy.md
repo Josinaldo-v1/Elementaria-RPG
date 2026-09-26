@@ -40,7 +40,3 @@ Após sobreviver a ...
 
 > [!question] [DÚVIDA]
 > O resumo está incompleto ("Após sobreviver a ...").
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

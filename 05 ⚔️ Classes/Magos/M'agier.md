@@ -18,7 +18,3 @@ M'agier é a espirito que rege sobre os Magos, existem muitos relatos e contos s
 
 ## 🖼️ Galeria
 ![[1180148434569797652-2.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

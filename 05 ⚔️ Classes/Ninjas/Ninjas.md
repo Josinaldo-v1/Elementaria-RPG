@@ -104,7 +104,3 @@ Canal **Ninjas › linhagens**.
 ![[1184557025565352067-Ninja.webp|220]]
 
 <small>Fonte: mais imagens do assunto</small>
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

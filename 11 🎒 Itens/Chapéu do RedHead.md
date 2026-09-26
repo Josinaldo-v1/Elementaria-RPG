@@ -27,7 +27,3 @@ fonte:
 ## Efeitos
 ### ⚜️ Cabeça Quente
 A cada 100 de Vida recebe +2 de Resistência a fogo (Máximo 20).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

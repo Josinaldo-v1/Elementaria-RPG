@@ -32,7 +32,3 @@ fonte:
 - Zelfea
 
 A história completa está na nota da classe: [[Fadas]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

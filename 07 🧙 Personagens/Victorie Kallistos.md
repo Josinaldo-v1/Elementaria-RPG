@@ -212,7 +212,3 @@ Ordem de iniciativa **9** · vida perdida **68** → 932/1000 · mana gasta **0*
 - **🧬 Ficha e poderes:** [[Victorie Kallistos · Afinidade|Afinidade]] · [[Victorie Kallistos · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Victorie Kallistos · Convergências|Convergências]] · [[Victorie Kallistos · Feitiços|Feitiços]] · [[Victorie Kallistos · Ficha|Ficha]] · [[Victorie Kallistos · Modificadores|Modificadores]] · [[Victorie Kallistos · Nexus|Nexus]] · [[Victorie Kallistos · Origem|Origem]] · [[Victorie Kallistos · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Victorie Kallistos · Carteira|Carteira]] · [[Victorie Kallistos · Cofre|Cofre]] · [[Victorie Kallistos · Filiais|Filiais]] · [[Victorie Kallistos · Inventário|Inventário]] · [[Victorie Kallistos · Mochila|Mochila]] · [[Victorie Kallistos · Quarto|Quarto]]
 - **📖 História e documentos:** [[Victorie Kallistos · Anotações|Anotações]] · [[Victorie Kallistos · Documentos|Documentos]] · [[Victorie Kallistos · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

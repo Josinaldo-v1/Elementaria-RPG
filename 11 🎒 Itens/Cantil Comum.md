@@ -27,7 +27,3 @@ fonte:
 ## Efeitos
 ### ⚜️ Quantidade
 50%/100% (ÁGUA)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

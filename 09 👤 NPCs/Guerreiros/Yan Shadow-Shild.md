@@ -48,7 +48,3 @@ Chefe da divisão de elite secreta do Rei.
 ## 🎬 Aparições na campanha
 - [[EP 30 - Quem é você]]
 - [[EP 35 - Tempos de Gloria]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -28,7 +28,3 @@ Ser citado em vários lugares, sem descrição publicada:
 
 ## 🎬 Aparições na campanha
 - [[EP 38 - Pesada é a coroa]] — imagem "Filhos do Alastor"
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

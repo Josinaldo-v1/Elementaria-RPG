@@ -32,7 +32,3 @@ fonte:
 |---|---|---|---|
 | [[Ajava de Penas]] | 💧 Lendário | Ajava | [[Calypso Ezeriel]] |
 | [[Arco da Armada de Anjos da Guarda]] | 💧 Lendário | Arco Grande | [[Calypso Ezeriel]] |
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

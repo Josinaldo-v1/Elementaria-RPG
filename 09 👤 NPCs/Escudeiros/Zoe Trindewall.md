@@ -50,7 +50,3 @@ Zoe possui poderes de alterar a densidade corporal e deixar sua pele blindada a 
 
 ## 🖼️ Galeria
 ![[1539958672518549554-1539958671910506608-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

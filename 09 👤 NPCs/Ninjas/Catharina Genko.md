@@ -40,7 +40,3 @@ fonte: "https://discord.com/channels/1420922099056508930/1521471627894849619/152
 
 ## Resumo
 Catharina é membro da MERCY, quer se tornar Then-sho e possiu um vasto arcenal de equipamentos criados por ela mesma.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

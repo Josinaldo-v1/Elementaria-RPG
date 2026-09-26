@@ -47,7 +47,3 @@ Dano sobe **2d6** a cada melhoria · até **3** melhoria(s) · dano máximo **12
 ### 👤 Origem e portadores
 - **Origem:** **Latrice Loyal (Locky Lady)**
 - **Portador:** [[Jack Kenway]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

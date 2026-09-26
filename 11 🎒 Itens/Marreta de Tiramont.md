@@ -46,7 +46,3 @@ Dano sobe **2d20** a cada melhoria · até **1** melhoria(s) · dano máximo **4
 ### 👤 Origem e portadores
 - **Origem:** **Imperador Tiramont**
 - **Portador:** —
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

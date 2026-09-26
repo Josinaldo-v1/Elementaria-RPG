@@ -29,7 +29,3 @@ fonte:
 - Arquimidia
 
 A história completa está na nota da classe: [[Inventores]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

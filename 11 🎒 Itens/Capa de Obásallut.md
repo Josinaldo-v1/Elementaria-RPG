@@ -24,7 +24,3 @@ Três vezes por luta consegue duplicar o valor final de cura recebida por feiti�
 
 > [!warning] [CONFLITO]
 > A aba do [[Jack Kenway]] também lista este item (cópia da aba do Cássio).
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

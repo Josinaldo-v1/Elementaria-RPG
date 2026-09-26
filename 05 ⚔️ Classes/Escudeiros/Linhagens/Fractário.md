@@ -23,7 +23,3 @@ A Linhagem Fractário de um escudeiro é focada em gerar auto resistência a gol
 - [[Juliano Trindewall]]
 - [[Heraclion Primeiro]]
 - [[Dominique Trindewall]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

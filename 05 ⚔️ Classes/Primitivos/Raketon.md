@@ -18,7 +18,3 @@ Raketon é o espirito que rege sobre os Primitivos, o que se sabe sobre ele devi
 
 ## 🖼️ Galeria
 ![[1213207662829903922-1.webp|320]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

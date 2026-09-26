@@ -44,7 +44,3 @@ Kuruk possui poderes de manipulação de memorias e se alimenta delas as transfo
 
 ## 🖼️ Galeria
 ![[1529818790274011206-1529818789946851460-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

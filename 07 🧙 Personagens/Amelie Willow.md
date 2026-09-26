@@ -259,7 +259,3 @@ Ordem de iniciativa **7** · vida perdida **22** → 1178/1200 · mana gasta **1
 - **🧬 Ficha e poderes:** [[Amelie Willow · Afinidade|Afinidade]] · [[Amelie Willow · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Amelie Willow · Convergências|Convergências]] · [[Amelie Willow · Feitiços|Feitiços]] · [[Amelie Willow · Ficha|Ficha]] · [[Amelie Willow · Modificadores|Modificadores]] · [[Amelie Willow · Nexus|Nexus]] · [[Amelie Willow · Origem|Origem]] · [[Amelie Willow · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Amelie Willow · Carteira|Carteira]] · [[Amelie Willow · Cofre|Cofre]] · [[Amelie Willow · Filiais|Filiais]] · [[Amelie Willow · Inventário|Inventário]] · [[Amelie Willow · Mochila|Mochila]] · [[Amelie Willow · Quarto|Quarto]]
 - **📖 História e documentos:** [[Amelie Willow · Anotações|Anotações]] · [[Amelie Willow · Documentos|Documentos]] · [[Amelie Willow · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

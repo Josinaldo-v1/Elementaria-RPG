@@ -35,7 +35,3 @@ Canal **Épico (Esmeralda) › pescoço** ([link](https://discord.com/channels/1
 ### 👤 Origem e portadores
 - **Origem:** **Pharah Glenda Vicenzo**
 - **Portador:** [[Dracorex]] → [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

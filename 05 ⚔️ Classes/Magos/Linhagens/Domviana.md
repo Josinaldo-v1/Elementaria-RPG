@@ -23,7 +23,3 @@ A Linhagem Domviana de um Mago é focada em saber o momento correto e o local ex
 - [[Albatroz Dracon-Flip]]
 - [[Giovanni Meclaton]]
 - [[Galatea Swellow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

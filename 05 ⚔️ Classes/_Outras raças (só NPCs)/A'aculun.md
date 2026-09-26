@@ -19,7 +19,3 @@ Abençoa os Arcontes com poder elemental voltado para **bênçãos e propagaçã
 
 > [!question] [DÚVIDA]
 > O canal do espírito só tem o título e a imagem; não há descrição.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -22,7 +22,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 - [[Odiney Italicco]]
 - [[Pollo Insertto]]
 - [[Tamar Komas]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

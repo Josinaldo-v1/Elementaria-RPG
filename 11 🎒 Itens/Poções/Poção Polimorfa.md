@@ -22,7 +22,3 @@ fonte: "https://discord.com/channels/1039554092793606203/1445511426470056068"
 | — | Altera a aparência do portador para a primeira coisa que vier em sua mente | 1 | Ofício DT 25 |
 
 **Receita:** 150 ml de água potável - 50 ml de sangue de peixe camaleão - 5 tentáculos de lula brilhante
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

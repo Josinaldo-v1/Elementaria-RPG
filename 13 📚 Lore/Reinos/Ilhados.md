@@ -25,7 +25,3 @@ fonte:
 - 15 ilhas oficiais
 
 A história completa está na nota da classe: [[Piratas]].
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

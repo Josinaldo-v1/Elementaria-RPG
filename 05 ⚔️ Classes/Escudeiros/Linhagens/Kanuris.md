@@ -23,7 +23,3 @@ A Linhagem Kanuris de um escudeiro é focada em zonear áreas para aumentar a re
 - [[Nacer Zefild]]
 - [[Tommy Amaral]]
 - [[Acerola Lucinatus]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

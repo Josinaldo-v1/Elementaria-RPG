@@ -52,7 +52,3 @@ A atual rainha das fadas, possui afinidade com a luz e é graciada por Fee, atua
 
 ## 🎬 Aparições nas campanhas anteriores
 - [[Templo de Terminus · EP 18 - O Templo de Terminus part 2|Templo de Terminus — EP 18: O Templo de Terminus part 2]] (25/05/2024)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

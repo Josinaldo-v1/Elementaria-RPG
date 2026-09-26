@@ -35,7 +35,3 @@ Canal **Especial (Rubi) › dedos** ([link](https://discord.com/channels/1464039
 ### 👤 Origem e portadores
 - **Origem:** **Jhin Jeogun**
 - **Portador:** [[Christopher Lobos]] → [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

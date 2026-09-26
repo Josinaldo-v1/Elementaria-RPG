@@ -21,7 +21,3 @@ fonte: "https://discord.com/channels/1420922099056508930/"
 - [[Amanda Ember|Amanda Koa]]
 - [[Kuruk Ember]]
 - [[Nicolla Orbes]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

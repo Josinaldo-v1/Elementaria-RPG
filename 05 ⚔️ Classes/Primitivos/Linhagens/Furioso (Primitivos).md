@@ -24,7 +24,3 @@ A Linhagem Furioso de um primitivo é focada em golpear seus inimigos com golpes
 - [[Dimbo-o Mortus]]
 - [[Katarina-a Mortus]]
 - [[Berta Gertha]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

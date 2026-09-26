@@ -25,7 +25,3 @@ fonte: "https://discord.com/channels/1146162624665501857/1381754055868813362"
 **Características:** Grampus são criaturas majoritariamente feitas de caos possuindo ataques corpo a corpo como mordida e golpes com calda que são capazes de causar sangramento além de possuir magia negra adquiridas do plano do vazio podendo criar buracos de minhoca e ondas de pura energia caótica capaz de desintegrar as coisas a sua frente. 
 
 > [!note] O canal escreve **Granpus** no título e **Grampus** no texto.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

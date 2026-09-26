@@ -43,7 +43,3 @@ Uma das conselheiras da atual rainha das fadas, possui afinidade com a Vitalidad
 
 ## 🖼️ Galeria
 ![[1517858543661875200-9e088ec6-96b2-4046-80fa-f071a0217f0b.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

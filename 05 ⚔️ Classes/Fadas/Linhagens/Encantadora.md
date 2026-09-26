@@ -23,7 +23,3 @@ A Linhagem Encantadora de uma fada é focada em manipular seus adversários apli
 - [[Rainha Stellya Vicenzo|Stellya Vicenzo]]
 - [[Tempora Vicenzo]]
 - [[Georgina Gondz]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

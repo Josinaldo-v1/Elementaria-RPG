@@ -48,7 +48,3 @@ Rachel possui poderes de manipulação de aparência corporal e do ambiente. Mem
 
 ## 🖼️ Galeria
 ![[1529801885773467678-1529801885438050455-image.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

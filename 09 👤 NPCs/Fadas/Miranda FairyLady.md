@@ -39,7 +39,3 @@ Miranda é a atual diretora da escola de Alfairy e no passado foi colega de sala
 
 ## 🖼️ Galeria
 ![[1517294856374849777-d91d1492-9c83-473d-bd6e-e0da29341e5f.webp|240]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

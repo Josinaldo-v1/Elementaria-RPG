@@ -42,7 +42,3 @@ No terceiro tempo Preta já compreendeu a grandeza do seu poder e do seu papel n
 ## 🎬 Aparições nas campanhas anteriores
 - [[Sindicato da Desordem · EP 20 - Rios e Arvores|Sindicato da Desordem — EP 20: Rios e Arvores]] (13/04/2025)
 - [[A Volta para o Terceiro Tempo · EP 17 - A Verdadeira Princesinha das Noitadas|A Volta para o Terceiro Tempo — EP 17: A Verdadeira Princesinha das Noitadas]] (06/04/2025)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

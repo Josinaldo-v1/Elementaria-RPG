@@ -23,7 +23,3 @@ A Linhagem Vloek de um Rumbands é focada em atingir alvos em longo alcance apli
 - Latasha Mwangi
 - Nassor Mwangi
 - [[Janja Kandis]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -27,7 +27,3 @@ Passivas de covil: em turnos pares as aranhas são imunes a condições negativa
 
 ## 🎬 Aparições na campanha
 - [[Covil das Aranhas]] — batalha de 20/09/2026 (Planilha de Batalhas)
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

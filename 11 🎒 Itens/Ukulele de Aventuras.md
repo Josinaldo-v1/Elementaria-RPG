@@ -76,7 +76,3 @@ Canal **Lendario(Áqua-Marine) › costas** ([link](https://discord.com/channels
 ### 👤 Origem e portadores
 - **Origem:** **Jasper Pahdeus**
 - **Portador:** **Jasper Pahdeus** → [[Amelie Willow]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

@@ -44,7 +44,3 @@ Chefe da primeira e mais forte linha maritima do exercito de Krateras.
 
 ## 🎬 Aparições na campanha
 - [[EP 35 - Tempos de Gloria]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

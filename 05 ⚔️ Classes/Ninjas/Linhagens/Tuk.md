@@ -23,7 +23,3 @@ A Linhagem Tuk de um ninja é focada em manipular com rapidez a capacidade de go
 - [[Melynda Temurki May|Melynda Temurki]]
 - [[Gah Jhin]]
 - [[Zoe Kori]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

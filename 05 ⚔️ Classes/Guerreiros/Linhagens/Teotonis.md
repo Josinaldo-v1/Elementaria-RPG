@@ -23,7 +23,3 @@ A Linhagem Teotonis de um guerreiro é focada em aprimorar golpes de armas próp
 - [[Zac Strip-Bones]]
 - [[Ricarda Fremus]]
 - [[Damas Giorno]]
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

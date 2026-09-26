@@ -39,7 +39,3 @@ fonte: "https://discord.com/channels/1464039760610857097/1516814058190540911"
 
 > [!warning] [CONFLITO]
 > O item está na categoria **Épico (Esmeralda)** do servidor, mas a ficha diz raridade **Especial**.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]

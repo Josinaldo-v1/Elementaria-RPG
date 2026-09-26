@@ -274,7 +274,3 @@ Ordem de iniciativa **3** · vida perdida **287** → 713/1000 · mana gasta **4
 - **🧬 Ficha e poderes:** [[Edouard Acer · Afinidade|Afinidade]] · [[Edouard Acer · Bênçãos e Maldições|Bênçãos e Maldições]] · [[Edouard Acer · Convergências|Convergências]] · [[Edouard Acer · Feitiços|Feitiços]] · [[Edouard Acer · Ficha|Ficha]] · [[Edouard Acer · Modificadores|Modificadores]] · [[Edouard Acer · Nexus|Nexus]] · [[Edouard Acer · Origem|Origem]] · [[Edouard Acer · Perícias|Perícias]]
 - **🎒 Bens e moradia:** [[Edouard Acer · Carteira|Carteira]] · [[Edouard Acer · Cofre|Cofre]] · [[Edouard Acer · Filiais|Filiais]] · [[Edouard Acer · Inventário|Inventário]] · [[Edouard Acer · Mochila|Mochila]] · [[Edouard Acer · Quarto|Quarto]]
 - **📖 História e documentos:** [[Edouard Acer · Anotações|Anotações]] · [[Edouard Acer · Documentos|Documentos]] · [[Edouard Acer · História|História]]
-
-## 🔗 Ligações
-> [!ligacoes]- Pessoas, lugares e lore que citam este personagem (atualiza sozinho)
-> ![[Relacionados.base#Pessoas e lugares]]

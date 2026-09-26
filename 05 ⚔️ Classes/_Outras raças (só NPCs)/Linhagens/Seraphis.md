@@ -18,7 +18,3 @@ A Linhagem de um Arconte Seraphis é focada em magias de encanto que permitem ap
 ## Grandes nomes desta linhagem
 > [!question] [DÚVIDA]
 > A lista de grandes nomes está vazia no canal.
-
-## 🔗 Ligações
-> [!ligacoes]- Tudo o que cita esta nota (atualiza sozinho)
-> ![[Relacionados.base#Tudo]]
