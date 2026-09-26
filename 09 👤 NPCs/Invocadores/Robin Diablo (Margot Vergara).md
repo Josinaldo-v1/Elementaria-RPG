@@ -37,7 +37,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521474998706114590/152
 
 # 👤 Robin Diablo (Margot Vergara)
 
-> [!ficha|right] Robin Diablo (Margot Vergara)
+> [!ficha] Robin Diablo (Margot Vergara)
 > ![[1521475034164498553-image.webp]]
 >
 > | | |

@@ -29,7 +29,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093127152763012/151
 
 # 👤 Condessa Dustin Tecca
 
-> [!ficha|right] Condessa Dustin Tecca
+> [!ficha] Condessa Dustin Tecca
 > ![[1512512077581778984-charlotte.webp]]
 >
 > | | |

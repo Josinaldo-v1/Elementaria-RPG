@@ -66,8 +66,7 @@ fonte:
 
 # 🧙 Cássio Ramos
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Cássio Ramos
+> [!ficha] Cássio Ramos
 > ![[1532743612419407963-2f798393-b48a-471c-9c97-6c026340c600.webp]]
 >
 > | | |
@@ -134,7 +133,6 @@ fonte:
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1532743911485870121-image.webp|230]] ![[1532743967962169534-image.webp|230]] ![[1532744022014033963-image.webp|230]]
 
-<!-- ficha-oficial:fim -->
 ![[Cássio Ramos.webp|320]]
 
 ## ✨ Feitiços e passivas

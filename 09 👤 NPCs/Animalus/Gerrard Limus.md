@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1420937694250406038/152
 
 # 👤 Gerrard Limus
 
-> [!ficha|right] Gerrard Limus
+> [!ficha] Gerrard Limus
 > ![[1529814619231883394-1529814618321584221-image.webp]]
 >
 > | | |

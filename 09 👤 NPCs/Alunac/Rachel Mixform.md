@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1420936907616948234/152
 
 # 👤 Rachel Mixform
 
-> [!ficha|right] Rachel Mixform
+> [!ficha] Rachel Mixform
 > ![[1529801885773467678-1529801885052305498-image.webp]]
 >
 > | | |

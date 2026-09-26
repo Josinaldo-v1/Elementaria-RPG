@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1539968053343821894/153
 
 # 👤 Jorelma Rex Dragon
 
-> [!ficha|right] Jorelma Rex Dragon
+> [!ficha] Jorelma Rex Dragon
 > ![[1539968233795494011-image.webp]]
 >
 > | | |

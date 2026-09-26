@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1436423056737308764/143
 
 # 👤 Tamar Komas
 
-> [!ficha|right] Tamar Komas
+> [!ficha] Tamar Komas
 > ![[1436423084495081482-image.webp]]
 >
 > | | |

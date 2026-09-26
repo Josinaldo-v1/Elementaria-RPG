@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423089130706829343/143
 
 # 👤 Angelo Ramos
 
-> [!ficha|right] Angelo Ramos
+> [!ficha] Angelo Ramos
 > ![[1435079705253380247-Angelo_Ramos.webp]]
 >
 > | | |

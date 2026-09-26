@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422738016206971/143
 
 # 👤 Pollo Insertto
 
-> [!ficha|right] Pollo Insertto
+> [!ficha] Pollo Insertto
 > ![[1436422756349776043-image.webp]]
 >
 > | | |

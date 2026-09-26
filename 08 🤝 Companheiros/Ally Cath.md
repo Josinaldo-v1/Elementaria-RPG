@@ -26,7 +26,7 @@ imagem: "[[1549739427465793689-image.webp]]"
 
 # 🤝 Ally Cath
 
-> [!ficha|right] Ally Cath
+> [!ficha] Ally Cath
 > ![[1549739427465793689-image.webp]]
 >
 > | | |

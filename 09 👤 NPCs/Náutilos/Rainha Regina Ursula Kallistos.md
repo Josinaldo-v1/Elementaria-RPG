@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1519521452360073347/153
 
 # 👤 Rainha Regina Ursula Kallistos
 
-> [!ficha|right] Rainha Regina Ursula Kallistos
+> [!ficha] Rainha Regina Ursula Kallistos
 > ![[1526234073062707200-image.webp]]
 >
 > | | |

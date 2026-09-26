@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092256746340413/151
 
 # 👤 Leona Fireofly
 
-> [!ficha|right] Leona Fireofly
+> [!ficha] Leona Fireofly
 > ![[1512530631127597299-aeccd3ea3bc7db77a72bd79bcf93578b.webp]]
 >
 > | | |

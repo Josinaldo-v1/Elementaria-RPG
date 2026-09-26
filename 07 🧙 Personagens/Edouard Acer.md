@@ -65,8 +65,7 @@ fonte:
 
 # 🧙 Edouard Acer
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Edouard Acer
+> [!ficha] Edouard Acer
 > ![[1542871910533046433-image.webp]]
 >
 > | | |
@@ -138,8 +137,6 @@ fonte:
 
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1542872074740174898-image.webp|230]] ![[1542872142742290482-image.webp|230]] ![[1542872198283268127-image.webp|230]]
-
-<!-- ficha-oficial:fim -->
 
 ## ✨ Feitiços e passivas por nível (Ninja · Tuk)
 | Nível | Feitiços | Passivas | Passiva de linhagem (Tuk) |

@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092877578829894/151
 
 # 👤 Layla Wallys
 
-> [!ficha|right] Layla Wallys
+> [!ficha] Layla Wallys
 > ![[1517294633296855224-cdd7b47c-8034-4367-b10f-c00b2c2b3811.webp]]
 >
 > | | |

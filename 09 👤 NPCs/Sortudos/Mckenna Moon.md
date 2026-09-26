@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1539961248785899601/153
 
 # 👤 Mckenna Moon
 
-> [!ficha|right] Mckenna Moon
+> [!ficha] Mckenna Moon
 > ![[1539961367140761601-1539961366465486958-image.webp]]
 >
 > | | |

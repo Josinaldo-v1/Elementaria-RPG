@@ -30,7 +30,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093330526048398/152
 
 # 👤 Yan Shadow-Shild
 
-> [!ficha|right] Yan Shadow-Shild
+> [!ficha] Yan Shadow-Shild
 > ![[1521876294818594877-image.webp]]
 >
 > | | |

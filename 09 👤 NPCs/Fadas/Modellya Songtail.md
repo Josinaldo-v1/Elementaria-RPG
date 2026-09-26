@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092885288222800/151
 
 # 👤 Modellya Songtail
 
-> [!ficha|right] Modellya Songtail
+> [!ficha] Modellya Songtail
 > ![[1435073297099526175-Miranda_Fairylady.webp]]
 >
 > | | |

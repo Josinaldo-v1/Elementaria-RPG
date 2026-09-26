@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092885288222800/143
 
 # 👤 Miranda FairyLady
 
-> [!ficha|right] Miranda FairyLady
+> [!ficha] Miranda FairyLady
 > ![[1435073297099526175-Miranda_Fairylady.webp]]
 >
 > | | |

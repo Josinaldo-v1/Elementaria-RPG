@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424091439402586213/153
 
 # 👤 Illina Kroom
 
-> [!ficha|right] Illina Kroom
+> [!ficha] Illina Kroom
 > | | |
 > |---|---|
 > | Cargo | Membro da Àgora do Amanhã |

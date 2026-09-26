@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092021764915280/143
 
 # 👤 Cintia D'spade
 
-> [!ficha|right] Cintia D'spade
+> [!ficha] Cintia D'spade
 > ![[1435079328433176588-Cintia_Dspade.webp]]
 >
 > | | |

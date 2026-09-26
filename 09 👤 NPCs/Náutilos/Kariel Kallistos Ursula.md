@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1534171427178287285/153
 
 # 👤 Kariel Kallistos Ursula
 
-> [!ficha|right] Kariel Kallistos Ursula
+> [!ficha] Kariel Kallistos Ursula
 > ![[1534171507557798050-image.webp]]
 >
 > | | |

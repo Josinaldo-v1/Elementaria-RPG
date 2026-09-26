@@ -30,7 +30,7 @@ imagem: "[[1549739648782311465-image.webp]]"
 
 # 🤝 Daphyne Atarah
 
-> [!ficha|right] Daphyne Atarah
+> [!ficha] Daphyne Atarah
 > ![[1549739648782311465-image.webp]]
 >
 > | | |

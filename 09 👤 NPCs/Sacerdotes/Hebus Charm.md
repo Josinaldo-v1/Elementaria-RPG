@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1435080328694730772/143
 
 # 👤 Hebus Charm
 
-> [!ficha|right] Hebus Charm
+> [!ficha] Hebus Charm
 > ![[1435080375423471636-Hads_Imaculatto.webp]]
 >
 > | | |

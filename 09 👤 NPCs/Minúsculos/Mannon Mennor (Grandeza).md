@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1430995976629522603/143
 
 # 👤 Mannon Mennor (Grandeza)
 
-> [!ficha|right] Mannon Mennor (Grandeza)
+> [!ficha] Mannon Mennor (Grandeza)
 > ![[1430996026982142118-image.webp]]
 >
 > | | |

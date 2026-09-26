@@ -65,8 +65,7 @@ fonte:
 
 # 🧙 Amelie Willow
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Amelie Willow
+> [!ficha] Amelie Willow
 > ![[1531644798685941874-4e7860e5-d8ee-49e9-bf9c-3b767dca3971.webp]]
 >
 > | | |
@@ -133,7 +132,6 @@ fonte:
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1531644921948409916-image.webp|230]] ![[1531645047890509914-image.webp|230]] ![[1531645099287515137-image.webp|230]]
 
-<!-- ficha-oficial:fim -->
 ![[Amelie Willow.webp|320]]
 
 ## ✨ Feitiços e passivas

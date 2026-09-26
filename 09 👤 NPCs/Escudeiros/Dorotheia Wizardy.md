@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092040026652793/151
 
 # 👤 Dorotheia Wizardy
 
-> [!ficha|right] Dorotheia Wizardy
+> [!ficha] Dorotheia Wizardy
 > ![[1512539546254970930-image.webp]]
 >
 > | | |

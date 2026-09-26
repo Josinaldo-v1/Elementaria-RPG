@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423090267027931226/153
 
 # 👤 Aria Ursula Kallistos
 
-> [!ficha|right] Aria Ursula Kallistos
+> [!ficha] Aria Ursula Kallistos
 > ![[1536388049548607542-image.webp]]
 >
 > | | |

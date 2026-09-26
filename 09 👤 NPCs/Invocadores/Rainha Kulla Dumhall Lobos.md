@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521474998706114590/152
 
 # 👤 Rainha Kulla Dumhall Lobos
 
-> [!ficha|right] Rainha Kulla Dumhall Lobos
+> [!ficha] Rainha Kulla Dumhall Lobos
 > ![[1521475034164498553-image.webp]]
 >
 > | | |

@@ -22,7 +22,7 @@ fonte:
 
 # ☠️ Connor Pecctor — o Sacerdote Louco
 
-> [!ficha|right] Connor Pecctor
+> [!ficha] Connor Pecctor
 > | | |
 > |---|---|
 > | Classe | [[Sacerdotes]] |

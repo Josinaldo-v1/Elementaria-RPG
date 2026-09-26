@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1421258348720029778/143
 
 # 👤 Mikael Ezreal Yardan
 
-> [!ficha|right] Mikael Ezreal Yardan
+> [!ficha] Mikael Ezreal Yardan
 > | | |
 > |---|---|
 > | Cargo | Recem iniciado no exercito dos Anjos da Guarda |

@@ -1,27 +1,35 @@
 /* ============================================================
    Elementaria — estilo do vault (gerado pelo vault-builder)
-   Callouts novos: [!ficha|right] [!status] [!galeria] [!ligacoes]
+   Callouts novos: [!ficha] [!status] [!galeria]
    Classes de nota (cssclasses): ficha · episodio · wiki
    ============================================================ */
 
-/* ---------- quadro de ficha (infobox) ---------- */
+/* ---------- quadro de ficha (infobox) ----------
+   Cartão no topo da nota, começando na esquerda: retrato à esquerda, dados à direita, emblema e fonte embaixo.
+   Não flutua — o painel de status e o resto da nota vêm logo abaixo, sem espaço vazio. */
 .callout[data-callout="ficha"] {
   --callout-color: 168, 130, 255;
   --callout-icon: lucide-scroll-text;
   border-radius: 14px;
-  padding: 10px 12px;
+  padding: 10px 14px;
+  max-width: 860px;
 }
-.callout[data-callout="ficha"] .callout-title { justify-content: center; font-size: 1.15em; letter-spacing: .02em; }
-.callout[data-callout="ficha"] img { width: 100%; border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 0, 0, .35); }
-.callout[data-callout="ficha"] table { width: 100%; font-size: .86em; margin: .4em 0 0; }
+.callout[data-callout="ficha"] .callout-title { font-size: 1.15em; letter-spacing: .02em; }
+.callout[data-callout="ficha"]:has(img) > .callout-content {
+  display: grid;
+  grid-template-columns: minmax(170px, 260px) 1fr;
+  column-gap: 20px;
+  row-gap: 6px;
+  align-items: start;
+}
+.callout[data-callout="ficha"] > .callout-content > * { margin-top: 0; margin-bottom: 0; }
+.callout[data-callout="ficha"] > .callout-content > p:first-child img { width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 0, 0, .35); }
+.callout[data-callout="ficha"] > .callout-content > p:not(:first-child) img { border-radius: 10px; }
+.callout[data-callout="ficha"] table { width: 100%; font-size: .9em; margin: 0; }
 .callout[data-callout="ficha"] table th:empty, .callout[data-callout="ficha"] thead:has(th:empty) { display: none; }
 .callout[data-callout="ficha"] td:first-child { font-weight: 600; opacity: .8; white-space: nowrap; }
-.callout[data-callout="ficha"][data-callout-metadata~="right"] { float: right; width: 330px; margin: 0 0 1.2em 1.6em; }
-.callout[data-callout="ficha"][data-callout-metadata~="left"] { float: left; width: 330px; margin: 0 1.6em 1.2em 0; }
-.ficha h2, .ficha .callout[data-callout="ligacoes"], .wiki h2 { clear: both; }
-@media (max-width: 760px) {
-  .callout[data-callout="ficha"][data-callout-metadata~="right"],
-  .callout[data-callout="ficha"][data-callout-metadata~="left"] { float: none; width: auto; margin: 0 0 1em 0; }
+@media (max-width: 640px) {
+  .callout[data-callout="ficha"]:has(img) > .callout-content { grid-template-columns: 1fr; }
 }
 
 /* ---------- painel de status ---------- */

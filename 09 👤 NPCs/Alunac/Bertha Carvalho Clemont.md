@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1420922658232467556/151
 
 # 👤 Bertha Carvalho Clemont
 
-> [!ficha|right] Bertha Carvalho Clemont
+> [!ficha] Bertha Carvalho Clemont
 > ![[1512503525547184310-Berta_Clamont.webp]]
 >
 > | | |

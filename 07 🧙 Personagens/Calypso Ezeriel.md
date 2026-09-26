@@ -63,8 +63,7 @@ fonte:
 
 # 🧙 Calypso Ezeriel
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Calypso Ezeriel
+> [!ficha] Calypso Ezeriel
 > ![[1541766281563217982-image.webp]]
 >
 > | | |
@@ -133,8 +132,6 @@ fonte:
 
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1541766506159939615-image.webp|230]] ![[1541766627677310986-image.webp|230]] ![[1541766670429982740-image.webp|230]]
-
-<!-- ficha-oficial:fim -->
 
 ## 🎒 Equipamentos
 ![[1514603056841625640-Calypso.webp|90]] ![[1514601739914055771-9.webp|90]] ![[1514605073081303223-8.webp|90]] ![[1514611643567312956-1.webp|90]] ![[1514603430042271896-6.webp|90]] ![[1514596775217074317-11.webp|90]]

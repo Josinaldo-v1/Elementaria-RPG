@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1517862047717658875/151
 
 # 👤 Yoru Haru
 
-> [!ficha|right] Yoru Haru
+> [!ficha] Yoru Haru
 > ![[1517862948440113254-656e38eb-33cc-472f-8691-6e63868df142.webp]]
 >
 > | | |

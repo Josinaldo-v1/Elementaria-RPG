@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423091733100494858/151
 
 # 👤 Blossom Waldorf
 
-> [!ficha|right] Blossom Waldorf
+> [!ficha] Blossom Waldorf
 > ![[1517294040079532063-775cda64-c02e-42db-a4bb-6be31d3424d4.webp]]
 >
 > | | |

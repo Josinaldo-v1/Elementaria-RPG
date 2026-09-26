@@ -30,7 +30,7 @@ imagem: "[[1549739264135274506-image.webp]]"
 
 # 🤝 Tchelo Mosart
 
-> [!ficha|right] Tchelo Mosart
+> [!ficha] Tchelo Mosart
 > ![[1549739264135274506-image.webp]]
 >
 > | | |

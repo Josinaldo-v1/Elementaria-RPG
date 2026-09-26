@@ -65,8 +65,7 @@ fonte:
 
 # 🧙 Dracorex
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Dracorex
+> [!ficha] Dracorex
 > ![[1533837448495497328-e97caa2d-35d1-45b7-b2cf-277ed5f72688.webp]]
 >
 > | | |
@@ -135,8 +134,6 @@ fonte:
 
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1533837838666305618-image.webp|230]] ![[1533837905313923204-image.webp|230]] ![[1533837951375638548-image.webp|230]]
-
-<!-- ficha-oficial:fim -->
 
 ## ⚔️ Na batalha [[Covil das Aranhas]]
 Ordem de iniciativa **5** · vida perdida **184** → 916/1100 · mana gasta **500** → 11500/12000

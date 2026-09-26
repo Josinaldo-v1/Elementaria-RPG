@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1421259470104957120/152
 
 # 👤 Dhalia Delicate
 
-> [!ficha|right] Dhalia Delicate
+> [!ficha] Dhalia Delicate
 > | | |
 > |---|---|
 > | Cargo | Membro fundadora da Congregação das Eras |

@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1534171427178287285/153
 
 # 👤 Kaio Kallistos Ursula
 
-> [!ficha|right] Kaio Kallistos Ursula
+> [!ficha] Kaio Kallistos Ursula
 > ![[1534171507557798050-image.webp]]
 >
 > | | |

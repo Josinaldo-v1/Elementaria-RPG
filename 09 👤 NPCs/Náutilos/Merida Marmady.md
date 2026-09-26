@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1523791636151406642/152
 
 # 👤 Merida Marmady
 
-> [!ficha|right] Merida Marmady
+> [!ficha] Merida Marmady
 > ![[1523791796046397664-1523791794775654441-image.webp]]
 >
 > | | |

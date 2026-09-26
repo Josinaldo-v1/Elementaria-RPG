@@ -65,8 +65,7 @@ fonte:
 
 # 🧙 Jack Kenway
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Jack Kenway
+> [!ficha] Jack Kenway
 > ![[1549380956085817384-image.webp]]
 >
 > | | |
@@ -139,7 +138,6 @@ fonte:
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1549381512422760508-image.webp|230]] ![[1549381576939413566-image.webp|230]] ![[1549381647789457448-image.webp|230]]
 
-<!-- ficha-oficial:fim -->
 ![[Jack Kenway.webp|320]]
 
 ## ✨ Feitiços e passivas

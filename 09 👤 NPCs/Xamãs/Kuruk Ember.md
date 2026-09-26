@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1529818715401617518/152
 
 # 👤 Kuruk Ember
 
-> [!ficha|right] Kuruk Ember
+> [!ficha] Kuruk Ember
 > ![[1529818790274011206-1529818789531881492-image.webp]]
 >
 > | | |

@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424091726376599562/152
 
 # 👤 Evva Knox
 
-> [!ficha|right] Evva Knox
+> [!ficha] Evva Knox
 > ![[1529855846694129774-1529855845737828483-image.webp]]
 >
 > | | |

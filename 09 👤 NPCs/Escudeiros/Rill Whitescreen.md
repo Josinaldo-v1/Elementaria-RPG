@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423103873261899828/151
 
 # 👤 Rill Whitescreen
 
-> [!ficha|right] Rill Whitescreen
+> [!ficha] Rill Whitescreen
 > ![[1512513302218145842-Rill.webp]]
 >
 > | | |

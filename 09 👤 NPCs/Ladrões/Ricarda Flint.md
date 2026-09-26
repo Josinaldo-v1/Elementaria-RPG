@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1539956552121712720/153
 
 # 👤 Ricarda Flint
 
-> [!ficha|right] Ricarda Flint
+> [!ficha] Ricarda Flint
 > ![[1539956621629722714-1539956620774088734-image.webp]]
 >
 > | | |

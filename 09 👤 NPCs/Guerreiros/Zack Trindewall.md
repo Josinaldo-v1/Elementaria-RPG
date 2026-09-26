@@ -31,7 +31,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093347336949951/153
 
 # 👤 Zack Trindewall
 
-> [!ficha|right] Zack Trindewall
+> [!ficha] Zack Trindewall
 > ![[1539959740149407824-1539959739352350790-image.webp]]
 >
 > | | |

@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1421259682093203466/153
 
 # 👤 Tamara Eliot
 
-> [!ficha|right] Tamara Eliot
+> [!ficha] Tamara Eliot
 > | | |
 > |---|---|
 > | Cargo | Membro da Àgora do Amanhã |

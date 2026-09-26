@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092970109636709/152
 
 # 👤 Vallentyn Thory
 
-> [!ficha|right] Vallentyn Thory
+> [!ficha] Vallentyn Thory
 > ![[1529820008375390220-1529820007935115335-image.webp]]
 >
 > | | |

@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093231905243207/152
 
 # 👤 Norma Zelfild
 
-> [!ficha|right] Norma Zelfild
+> [!ficha] Norma Zelfild
 > ![[1512511632918577283-fcaa2dc540716ad1ea0c37dd5e302ac3.webp]]
 >
 > | | |

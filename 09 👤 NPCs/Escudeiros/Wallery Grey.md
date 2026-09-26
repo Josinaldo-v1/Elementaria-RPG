@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092542785556551/152
 
 # 👤 Wallery Grey
 
-> [!ficha|right] Wallery Grey
+> [!ficha] Wallery Grey
 > ![[1523800541614964860-image.webp]]
 >
 > | | |

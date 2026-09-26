@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521469606202445854/152
 
 # 👤 Melynda Temurki May
 
-> [!ficha|right] Melynda Temurki May
+> [!ficha] Melynda Temurki May
 > ![[1521469624884006932-3c23a1f8-abf9-4728-bcf0-61ecfd3a6918.webp]]
 >
 > | | |

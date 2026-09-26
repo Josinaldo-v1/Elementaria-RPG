@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1435080328694730772/143
 
 # 👤 Hantonio Benigtus
 
-> [!ficha|right] Hantonio Benigtus
+> [!ficha] Hantonio Benigtus
 > ![[1435080375423471636-Hads_Imaculatto.webp]]
 >
 > | | |

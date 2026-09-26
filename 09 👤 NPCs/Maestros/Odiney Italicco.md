@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422984133771446/143
 
 # 👤 Odiney Italicco
 
-> [!ficha|right] Odiney Italicco
+> [!ficha] Odiney Italicco
 > ![[1436423007106105374-image.webp]]
 >
 > | | |

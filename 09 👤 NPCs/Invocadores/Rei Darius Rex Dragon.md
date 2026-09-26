@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521474998706114590/153
 
 # 👤 Rei Darius Rex Dragon
 
-> [!ficha|right] Rei Darius Rex Dragon
+> [!ficha] Rei Darius Rex Dragon
 > ![[1521475034164498553-image.webp]]
 >
 > | | |

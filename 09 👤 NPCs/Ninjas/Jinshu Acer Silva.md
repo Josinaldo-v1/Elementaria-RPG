@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521470203840696472/152
 
 # 👤 Jinshu Acer Silva
 
-> [!ficha|right] Jinshu Acer Silva
+> [!ficha] Jinshu Acer Silva
 > ![[1521470315232886885-97d23188-6464-4d8c-9f85-e74884e6b861.webp]]
 >
 > | | |

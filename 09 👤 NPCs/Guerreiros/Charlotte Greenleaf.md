@@ -30,7 +30,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093127152763012/151
 
 # 👤 Charlotte Greenleaf
 
-> [!ficha|right] Charlotte Greenleaf
+> [!ficha] Charlotte Greenleaf
 > ![[1512512077581778984-charlotte.webp]]
 >
 > | | |

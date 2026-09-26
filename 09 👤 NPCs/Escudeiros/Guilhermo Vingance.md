@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092114832199923/151
 
 # 👤 Guilhermo Vingance
 
-> [!ficha|right] Guilhermo Vingance
+> [!ficha] Guilhermo Vingance
 > ![[1512505799375585320-Guilhermo_Vingance.webp]]
 >
 > | | |

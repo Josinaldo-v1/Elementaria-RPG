@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423103873261899828/151
 
 # 👤 Rainha Victress Trindewall
 
-> [!ficha|right] Rainha Victress Trindewall
+> [!ficha] Rainha Victress Trindewall
 > ![[1512513302218145842-Rill.webp]]
 >
 > | | |

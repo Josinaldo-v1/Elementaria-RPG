@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1438687816946290759/143
 
 # 👤 Eclaire Wan'dy
 
-> [!ficha|right] Eclaire Wan'dy
+> [!ficha] Eclaire Wan'dy
 > ![[1438687860189434030-Eclaire_Wandy.webp]]
 >
 > | | |

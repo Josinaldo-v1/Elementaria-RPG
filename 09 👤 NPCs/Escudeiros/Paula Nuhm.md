@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092358533714051/152
 
 # 👤 Paula Nuhm
 
-> [!ficha|right] Paula Nuhm
+> [!ficha] Paula Nuhm
 > ![[1523800808502857882-image.webp]]
 >
 > | | |

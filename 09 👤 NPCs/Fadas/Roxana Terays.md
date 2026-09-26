@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092925020868690/151
 
 # 👤 Roxana Terays
 
-> [!ficha|right] Roxana Terays
+> [!ficha] Roxana Terays
 > ![[1514646584942530561-ba78bf9808f796109fa4db7146bad3b6.webp]]
 >
 > | | |

@@ -63,8 +63,7 @@ fonte:
 
 # 🧙 Victorie Kallistos
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Victorie Kallistos
+> [!ficha] Victorie Kallistos
 > ![[1355009448707362897-21937619-29cd-40d9-828f-42792437166f.webp]]
 >
 > | | |
@@ -134,7 +133,6 @@ fonte:
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1502504911143829504-image.webp|230]] ![[1502504990722359347-image.webp|230]] ![[1502505070246363147-image.webp|230]]
 
-<!-- ficha-oficial:fim -->
 ![[Victorie Kallistos.webp|320]]
 
 ## 🔗 Ligações com NPCs

@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422839430549585/143
 
 # 👤 Euller Ricco
 
-> [!ficha|right] Euller Ricco
+> [!ficha] Euller Ricco
 > ![[1436422869536997500-image.webp]]
 >
 > | | |

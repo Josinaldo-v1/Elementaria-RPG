@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092564931346483/153
 
 # 👤 Zoe Trindewall
 
-> [!ficha|right] Zoe Trindewall
+> [!ficha] Zoe Trindewall
 > ![[1539958672518549554-1539958671411257514-image.webp]]
 >
 > | | |

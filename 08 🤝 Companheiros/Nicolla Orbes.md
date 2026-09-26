@@ -28,7 +28,7 @@ imagem: "[[1549739349892145273-image.webp]]"
 
 # 🤝 Nicolla Orbes
 
-> [!ficha|right] Nicolla Orbes
+> [!ficha] Nicolla Orbes
 > ![[1549739349892145273-image.webp]]
 >
 > | | |

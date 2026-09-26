@@ -30,7 +30,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1517861200304537720/151
 
 # 👤 Gloria 'Family' Kenway
 
-> [!ficha|right] Gloria 'Family' Kenway
+> [!ficha] Gloria 'Family' Kenway
 > ![[1517861245754281994-3c605092-530e-43f6-ac22-1ce139cf755e.webp]]
 >
 > | | |

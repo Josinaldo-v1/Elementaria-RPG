@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1529803544281088071/152
 
 # 👤 Katarina Faria's
 
-> [!ficha|right] Katarina Faria's
+> [!ficha] Katarina Faria's
 > ![[1529803616125456405-1529803615404036226-image.webp]]
 >
 > | | |

@@ -23,7 +23,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1421259579777355796/152
 
 # 👤 Marth Atarah
 
-> [!ficha|right] Marth Atarah
+> [!ficha] Marth Atarah
 > | | |
 > |---|---|
 > | Cargo | Principe de Brackmar |

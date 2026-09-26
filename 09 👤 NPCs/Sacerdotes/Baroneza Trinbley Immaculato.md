@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1435082041514266695/143
 
 # 👤 Baroneza Trinbley Immaculato
 
-> [!ficha|right] Baroneza Trinbley Immaculato
+> [!ficha] Baroneza Trinbley Immaculato
 > ![[1435082304174162021-Baroneza_Trinbley_Imaculatto.webp]]
 >
 > | | |

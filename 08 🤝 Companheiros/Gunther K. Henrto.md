@@ -21,7 +21,7 @@ fonte:
 
 # 🤝 Gunther K. Henrto
 
-> [!ficha|right] Gunther K. Henrto
+> [!ficha] Gunther K. Henrto
 > | | |
 > |---|---|
 > | Vida | 400 |

@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092939453206709/151
 
 # 👤 Trixy Vanderwoodsen
 
-> [!ficha|right] Trixy Vanderwoodsen
+> [!ficha] Trixy Vanderwoodsen
 > ![[1517858782682677311-88c05aa4-3c5e-479c-a891-1f5c6eb2014f.webp]]
 >
 > | | |

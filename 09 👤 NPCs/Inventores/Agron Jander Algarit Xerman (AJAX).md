@@ -30,7 +30,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423089280347017216/152
 
 # 👤 Agron Jander Algarit Xerman (AJAX)
 
-> [!ficha|right] Agron Jander Algarit Xerman (AJAX)
+> [!ficha] Agron Jander Algarit Xerman (AJAX)
 > ![[1521464891536314490-f8e58557-d166-48fd-b7a7-cac5203e9ab9.webp]]
 >
 > | | |

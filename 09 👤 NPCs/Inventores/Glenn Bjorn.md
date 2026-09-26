@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1455536217608159456/145
 
 # 👤 Glenn Bjorn
 
-> [!ficha|right] Glenn Bjorn
+> [!ficha] Glenn Bjorn
 > ![[1455536361556807865-image.webp]]
 >
 > | | |

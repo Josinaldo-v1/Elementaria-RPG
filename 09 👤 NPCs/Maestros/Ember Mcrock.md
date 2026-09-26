@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1436422839430549585/152
 
 # 👤 Ember Mcrock
 
-> [!ficha|right] Ember Mcrock
+> [!ficha] Ember Mcrock
 > ![[1436422869536997500-image.webp]]
 >
 > | | |

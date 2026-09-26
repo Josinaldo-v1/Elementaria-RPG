@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093248695042249/151
 
 # 👤 Princya Trapstain
 
-> [!ficha|right] Princya Trapstain
+> [!ficha] Princya Trapstain
 > ![[1512534491036651651-a282c568dedb8026330869a59f073263.webp]]
 >
 > | | |

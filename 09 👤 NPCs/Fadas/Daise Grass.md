@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092810809970818/151
 
 # 👤 Daise Grass
 
-> [!ficha|right] Daise Grass
+> [!ficha] Daise Grass
 > ![[1517294247508705451-47aaaef9-baf9-4504-81f8-29c160f9d719.webp]]
 >
 > | | |

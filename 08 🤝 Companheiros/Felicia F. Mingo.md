@@ -30,7 +30,7 @@ imagem: "[[1549739515906887763-image.webp]]"
 
 # 🤝 Felicia F. Mingo
 
-> [!ficha|right] Felicia F. Mingo
+> [!ficha] Felicia F. Mingo
 > ![[1549739515906887763-image.webp]]
 >
 > | | |

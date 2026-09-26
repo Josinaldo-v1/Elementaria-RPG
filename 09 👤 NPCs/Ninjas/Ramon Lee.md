@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1517863940254732348/151
 
 # 👤 Ramon Lee
 
-> [!ficha|right] Ramon Lee
+> [!ficha] Ramon Lee
 > ![[1517863961154945114-60f242b4-0d3e-4dde-b8f4-df7c8846b649.webp]]
 >
 > | | |

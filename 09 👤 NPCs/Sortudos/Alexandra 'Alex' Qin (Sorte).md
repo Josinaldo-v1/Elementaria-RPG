@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423090821460398080/143
 
 # 👤 Alexandra 'Alex' Qin (Sorte)
 
-> [!ficha|right] Alexandra 'Alex' Qin (Sorte)
+> [!ficha] Alexandra 'Alex' Qin (Sorte)
 > ![[1430999062504669286-image.webp]]
 >
 > | | |

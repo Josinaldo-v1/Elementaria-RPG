@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1455535925571489968/145
 
 # 👤 Lopato Wolfgang Lobos
 
-> [!ficha|right] Lopato Wolfgang Lobos
+> [!ficha] Lopato Wolfgang Lobos
 > ![[1455535945410543676-image.webp]]
 >
 > | | |

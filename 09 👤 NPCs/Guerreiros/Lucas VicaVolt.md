@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093216491442297/152
 
 # 👤 Lucas VicaVolt
 
-> [!ficha|right] Lucas VicaVolt
+> [!ficha] Lucas VicaVolt
 > ![[1523787195150766253-image.webp]]
 >
 > | | |

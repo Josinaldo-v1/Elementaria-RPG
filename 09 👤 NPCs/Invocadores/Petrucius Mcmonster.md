@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1529843424973426809/152
 
 # 👤 Petrucius Mcmonster
 
-> [!ficha|right] Petrucius Mcmonster
+> [!ficha] Petrucius Mcmonster
 > ![[1529843474978046014-1529843474269208657-image.webp]]
 >
 > | | |

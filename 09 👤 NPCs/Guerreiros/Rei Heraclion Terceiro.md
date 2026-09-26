@@ -31,7 +31,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424093263174045726/151
 
 # 👤 Rei Heraclion Terceiro
 
-> [!ficha|right] Rei Heraclion Terceiro
+> [!ficha] Rei Heraclion Terceiro
 > ![[1513610207224135761-15274e6d-840d-4524-9957-384ba5df6ac1.webp]]
 >
 > | | |

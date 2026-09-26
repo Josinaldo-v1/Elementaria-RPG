@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423089508001386536/145
 
 # 👤 Alfredo Wolfgang Lobos
 
-> [!ficha|right] Alfredo Wolfgang Lobos
+> [!ficha] Alfredo Wolfgang Lobos
 > ![[1455536110313934962-image.webp]]
 >
 > | | |

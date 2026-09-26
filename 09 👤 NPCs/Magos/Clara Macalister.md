@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1529807612042936350/152
 
 # 👤 Clara Macalister
 
-> [!ficha|right] Clara Macalister
+> [!ficha] Clara Macalister
 > ![[1529807717382754346-1529807716627906610-image.webp]]
 >
 > | | |

@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1539960099941122088/153
 
 # 👤 Galle Platina
 
-> [!ficha|right] Galle Platina
+> [!ficha] Galle Platina
 > ![[1539960172825288754-1539960171994947665-image.webp]]
 >
 > | | |

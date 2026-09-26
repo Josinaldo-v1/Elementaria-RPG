@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092925020868690/151
 
 # 👤 Rainha Stellya Vicenzo
 
-> [!ficha|right] Rainha Stellya Vicenzo
+> [!ficha] Rainha Stellya Vicenzo
 > ![[1514646584942530561-ba78bf9808f796109fa4db7146bad3b6.webp]]
 >
 > | | |

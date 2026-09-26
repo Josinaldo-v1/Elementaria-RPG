@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1421258221644943451/143
 
 # 👤 Bardo Yardan
 
-> [!ficha|right] Bardo Yardan
+> [!ficha] Bardo Yardan
 > | | |
 > |---|---|
 > | Cargo | Tenente do exercito dos Anjos da Guarda |

@@ -32,7 +32,7 @@ imagem: "[[1549739586589036544-image.webp]]"
 
 # 🤝 Amanda Ember
 
-> [!ficha|right] Amanda Ember
+> [!ficha] Amanda Ember
 > ![[1549739586589036544-image.webp]]
 >
 > | | |

@@ -10,7 +10,11 @@
   // O grupo joga junto: na visão do jogador nada marcado como "mestre"/"privado" no vault aparece.
   // Os dados do mestre só existem nesta aba se ela carregou js/dados-mestre.js (ver index.html).
   const M = window.ELEMENTARIA_MESTRE;
-  App.mestre = !!M;
+  let pediuMestre = false;
+  try { pediuMestre = sessionStorage.getItem("elementaria.visao") === "mestre"; } catch (e) { /* segue */ }
+  // Cópia pública (GitHub Pages) não tem js/dados-mestre.js: o painel do mestre funciona, só que sem segredos.
+  App.mestreSemDados = pediuMestre && !M;
+  App.mestre = !!M || App.mestreSemDados;
   if (M) {
     for (const [lista, regs] of Object.entries(M.registros || {})) {
       const existentes = new Set((D[lista] || []).map((x) => x.id));
@@ -73,6 +77,9 @@
   function inline(txt) {
     let s = esc(txt);
     s = s.replace(/!\[\[[^\]]+\]\]/g, "");
+    // imagens já resolvidas pelo gerar_dados.py: ![largura](caminho)
+    s = s.replace(/!\[(\d*)[^\]]*\]\(([^)\s]+)\)/g, (_, w, src) => `<img src="${src}" alt="" loading="lazy"${w ? ` style="width:${w}px"` : ""}>`);
+    s = s.replace(/&lt;(\/?)(small|br)\s*\/?&gt;/g, "<$1$2>");
     s = s.replace(/\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]/g, (_, alvo, rot) => {
       const achou = App.buscarNota(alvo.replace(/&#39;/g, "'").replace(/&amp;/g, "&"));
       const texto = rot || alvo;
@@ -85,7 +92,7 @@
     return s;
   }
   function markdown(md) {
-    const linhas = String(md || "").replace(/\r/g, "").split("\n");
+    const linhas = String(md || "").replace(/\r/g, "").replace(/<!--[\s\S]*?-->/g, "").split("\n");
     const out = [];
     let i = 0;
     while (i < linhas.length) {
@@ -94,9 +101,9 @@
       if (/^>/.test(l)) {
         const bloco = [];
         while (i < linhas.length && /^>/.test(linhas[i])) bloco.push(linhas[i++].replace(/^>\s?/, ""));
-        const m = bloco[0].match(/^\[!(\w+)\][+-]?\s*(.*)$/);
+        const m = bloco[0].match(/^\[!(\w+)(?:\|([\w-]+))?\][+-]?\s*(.*)$/);
         if (m) {
-          out.push(`<div class="callout ${esc(m[1].toLowerCase())}">${m[2] ? `<div class="titulo-callout">${inline(m[2])}</div>` : ""}${markdown(bloco.slice(1).join("\n"))}</div>`);
+          out.push(`<div class="callout ${esc(m[1].toLowerCase())}${m[2] ? " " + esc(m[2].toLowerCase()) : ""}">${m[3] ? `<div class="titulo-callout">${inline(m[3])}</div>` : ""}${markdown(bloco.slice(1).join("\n"))}</div>`);
         } else out.push(`<div class="callout quote">${markdown(bloco.join("\n"))}</div>`);
         continue;
       }
@@ -105,7 +112,7 @@
       if (/^\|/.test(l)) {
         const rows = [];
         while (i < linhas.length && /^\|/.test(linhas[i])) rows.push(linhas[i++]);
-        const cel = (r) => r.replace(/^\||\|$/g, "").split(/(?<!\\)\|/).map((c) => c.trim());
+        const cel = (r) => r.replace(/^\||\|$/g, "").split(/(?<!\\)\|/).map((c) => c.trim().replace(/\\\|/g, "|"));
         const corpo = rows.filter((r) => !/^\|[\s:|-]+\|$/.test(r));
         const [cab, ...resto] = corpo;
         out.push(`<table><thead><tr>${cel(cab).map((c) => `<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${resto.map((r) => `<tr>${cel(r).map((c) => `<td>${inline(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`);
@@ -487,9 +494,11 @@
     document.querySelector(".gaveta-fundo").addEventListener("click", App.fecharGaveta);
     document.getElementById("gerado").textContent = `Dados do vault: ${D.geradoEm}`;
     const bv = document.getElementById("visao");
-    bv.textContent = App.mestre ? "Visão do mestre" : "Visão do jogador";
+    bv.textContent = App.mestreSemDados ? "Mestre (sem segredos)" : App.mestre ? "Visão do mestre" : "Visão do jogador";
     bv.setAttribute("aria-pressed", String(App.mestre));
-    bv.title = App.mestre ? "Esta aba mostra segredos do mestre. Clique para voltar à visão do jogador." : "Clique para ver os segredos do mestre nesta aba.";
+    bv.title = App.mestreSemDados ? "Esta cópia do site não tem os dados do mestre. Clique para voltar à visão do jogador."
+      : App.mestre ? "Esta aba mostra segredos do mestre. Clique para voltar à visão do jogador." : "Clique para ver os segredos do mestre nesta aba.";
+    if (App.mestreSemDados) setTimeout(() => aviso("Esta cópia do site não tem os dados do mestre. O painel funciona, mas sem inimigos e notas secretas."), 400);
     bv.addEventListener("click", () => {
       if (App.mestre) App.trocarVisao(false);
       else if (App.confirmar("Mostrar os segredos do mestre nesta aba? Confira se nenhum jogador está vendo a tela.")) App.trocarVisao(true);

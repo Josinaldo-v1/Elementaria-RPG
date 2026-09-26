@@ -63,8 +63,7 @@ fonte:
 
 # 🧙 Christopher Lobos
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Christopher Lobos
+> [!ficha] Christopher Lobos
 > ![[1533842037898608831-4a64834e-11e3-4772-ba10-9ad4118fc5c8.webp]]
 >
 > | | |
@@ -130,8 +129,6 @@ fonte:
 
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1533842173831811182-image.webp|230]] ![[1533842227158319327-image.webp|230]] ![[1533842274100842597-image.webp|230]]
-
-<!-- ficha-oficial:fim -->
 
 ## ⚔️ Na batalha [[Covil das Aranhas]]
 Ordem de iniciativa **6** · vida perdida **0** → 1000/1000 · mana gasta **0** → 10000/10000

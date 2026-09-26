@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1534170186083471521/153
 
 # 👤 Umma Ursula Kallistos
 
-> [!ficha|right] Umma Ursula Kallistos
+> [!ficha] Umma Ursula Kallistos
 > ![[1534170273111343134-image.webp]]
 >
 > | | |

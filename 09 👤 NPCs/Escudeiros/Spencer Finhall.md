@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092472199610562/152
 
 # 👤 Spencer Finhall
 
-> [!ficha|right] Spencer Finhall
+> [!ficha] Spencer Finhall
 > ![[1523796121066147850-image.webp]]
 >
 > | | |

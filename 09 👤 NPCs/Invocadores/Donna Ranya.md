@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1435078723131936788/152
 
 # 👤 Donna Ranya
 
-> [!ficha|right] Donna Ranya
+> [!ficha] Donna Ranya
 > ![[1529824193036681459-1529824191883382894-image.webp]]
 >
 > | | |

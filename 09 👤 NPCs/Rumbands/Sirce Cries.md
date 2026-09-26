@@ -25,7 +25,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1455535632456876138/145
 
 # 👤 Sirce Cries
 
-> [!ficha|right] Sirce Cries
+> [!ficha] Sirce Cries
 > ![[1455535797292761229-image.webp]]
 >
 > | | |

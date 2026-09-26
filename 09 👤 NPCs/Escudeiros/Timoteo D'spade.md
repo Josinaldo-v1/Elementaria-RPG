@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092493598953564/143
 
 # 👤 Timoteo D'spade
 
-> [!ficha|right] Timoteo D'spade
+> [!ficha] Timoteo D'spade
 > ![[1435079385874174102-Timoteo_Dspade.webp]]
 >
 > | | |

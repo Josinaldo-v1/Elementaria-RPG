@@ -64,8 +64,7 @@ fonte:
 
 # 🧙 Ophelia Benigtus
 
-<!-- ficha-oficial:inicio -->
-> [!ficha|right] Ophelia Benigtus
+> [!ficha] Ophelia Benigtus
 > ![[1355010469412475072-0fea518b-859a-4591-8b1f-3908e47fb935.webp]]
 >
 > | | |
@@ -135,7 +134,6 @@ fonte:
 > [!galeria]- 🖼️ Capturas da ficha no Discord
 > ![[1479610285559119982-image.webp|230]] ![[1479610353389146346-image.webp|230]] ![[1479610412235362447-image.webp|230]]
 
-<!-- ficha-oficial:fim -->
 ![[Ophelia Benigtus.webp|320]]
 
 ## ✨ Feitiços e passivas

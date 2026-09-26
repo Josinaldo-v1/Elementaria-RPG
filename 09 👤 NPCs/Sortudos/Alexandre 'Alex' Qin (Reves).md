@@ -27,7 +27,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1423090821460398080/143
 
 # 👤 Alexandre 'Alex' Qin (Reves)
 
-> [!ficha|right] Alexandre 'Alex' Qin (Reves)
+> [!ficha] Alexandre 'Alex' Qin (Reves)
 > ![[1430999062504669286-image.webp]]
 >
 > | | |

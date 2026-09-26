@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1424092021764915280/152
 
 # 👤 Chanell Tall-Small
 
-> [!ficha|right] Chanell Tall-Small
+> [!ficha] Chanell Tall-Small
 > ![[1435079328433176588-Cintia_Dspade.webp]]
 >
 > | | |

@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521471627894849619/152
 
 # 👤 Catharina Genko
 
-> [!ficha|right] Catharina Genko
+> [!ficha] Catharina Genko
 > ![[1521471663164624896-3388a042-3fdf-43ba-ad1f-adc4c047a8ac.webp]]
 >
 > | | |

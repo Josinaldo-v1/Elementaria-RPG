@@ -26,7 +26,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1438687475424952452/143
 
 # 👤 Cler Albuquerque Lucis
 
-> [!ficha|right] Cler Albuquerque Lucis
+> [!ficha] Cler Albuquerque Lucis
 > ![[1438687540059046042-Cler_Albuquerque.webp]]
 >
 > | | |

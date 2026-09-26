@@ -24,7 +24,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1519521452360073347/152
 
 # 👤 Rainha Ariana Ursula
 
-> [!ficha|right] Rainha Ariana Ursula
+> [!ficha] Rainha Ariana Ursula
 > ![[1526234073062707200-image.webp]]
 >
 > | | |

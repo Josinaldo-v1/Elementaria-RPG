@@ -21,7 +21,7 @@ fonte:
 
 # 👤 {{title}}
 
-> [!ficha|right] {{title}}
+> [!ficha] {{title}}
 > ![[coloque-a-imagem-aqui.png]]
 >
 > | | |

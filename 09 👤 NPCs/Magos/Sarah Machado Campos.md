@@ -28,7 +28,7 @@ fonte: "https://discord.com/channels/1420922099056508930/1521466951732301834/152
 
 # 👤 Sarah Machado Campos
 
-> [!ficha|right] Sarah Machado Campos
+> [!ficha] Sarah Machado Campos
 > ![[1521466973626695710-84705e4e-b079-4759-8922-b82519291c8f.webp]]
 >
 > | | |
