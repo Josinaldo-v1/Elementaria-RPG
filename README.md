@@ -2,7 +2,10 @@
 
 Base de conhecimento do universo de **Elementaria**, um RPG de mesa criado do zero: regras, classes e feitiços, personagens, NPCs, reinos, história, documentos e os episódios das campanhas.
 
-## Como abrir
+## 🌐 Site da mesa
+**https://josinaldo-v1.github.io/Elementaria-RPG/** — fichas, mesa, mapa e dados (visão de jogador).
+
+## Como abrir o vault
 É um vault do [Obsidian](https://obsidian.md): baixe o repositório e use **Abrir pasta como vault**. Comece por **🏠 Início** e pelo **🧭 Guia do Vault** (como está organizado e os padrões de escrita).
 
 ## O que tem

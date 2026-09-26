@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elementaria — Mesa</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@500;700;800&family=Alegreya+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <div class="app">
+    <nav class="trilho" aria-label="Seções">
+      <svg class="selo" viewBox="0 0 44 44" aria-hidden="true"></svg>
+      <a href="#/" data-rota="inicio">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c2 3 5 4.5 5 9a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1 2.5 2 3 0-3 0-5 1-7.5Z"/><path d="M5 21h14"/></svg>
+        Mesa
+      </a>
+      <a href="#/fichas" data-rota="fichas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 3h9l3 3v15H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/><path d="M9 9h6M9 13h6M9 17h3"/></svg>
+        Fichas
+      </a>
+      <a href="#/mestre" data-rota="mestre">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 8 4 3 5-6 5 6 4-3-2 11H5L3 8Z"/><path d="M5 21h14"/></svg>
+        Mestre
+      </a>
+      <a href="#/mapa" data-rota="mapa">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
+        Mapa
+      </a>
+      <div class="espaco"></div>
+      <button class="visao" type="button" id="visao" aria-pressed="false"></button>
+      <small id="gerado"></small>
+    </nav>
+
+    <main class="principal" id="vista" tabindex="-1"></main>
+  </div>
+
+  <button class="botao-dados" type="button" aria-label="Abrir dados (tecla D)" title="Dados (D)">
+    <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"><path d="M16 2 28 9v14l-12 7L4 23V9l12-7Z" stroke="var(--brasa)"/><path d="m16 2-5 11h10L16 2ZM4 9l7 4-7 10M28 9l-7 4 7 10M11 13l5 17 5-17"/></svg>
+  </button>
+
+  <div class="gaveta-fundo"></div>
+  <aside class="gaveta" aria-hidden="true" aria-label="Detalhes">
+    <header><h2>Detalhes</h2><button class="btn fantasma fechar" type="button" aria-label="Fechar (Esc)">✕</button></header>
+    <div class="corpo"></div>
+  </aside>
+  <div class="avisos" aria-live="polite"></div>
+
+  <script src="js/dados.js"></script>
+  <script>
+    // Segredos do mestre só entram na memória quando ESTA aba está na visão do mestre.
+    // (sessionStorage: cada aba escolhe a sua — a TV fica na visão do jogador.)
+    try { if (sessionStorage.getItem("elementaria.visao") === "mestre") document.write('<script src="js/dados-mestre.js"><\/script>'); } catch (e) {}
+  </script>
+  <script src="js/regras.js"></script>
+  <script src="js/nucleo.js"></script>
+  <script src="js/vistas/inicio.js"></script>
+  <script src="js/vistas/fichas.js"></script>
+  <script src="js/vistas/mestre.js"></script>
+  <script src="js/vistas/mapa.js"></script>
+  <script>
+    // Selo: os 13 elementos em órbita
+    (function () {
+      const s = document.querySelector(".selo");
+      const cores = ["vento","gelo","terra","metal","fogo","magia","natureza","trevas","luz","vida-el","agua","eletricidade","caos"];
+      let h = '<circle cx="22" cy="22" r="6" fill="var(--brasa)"/>';
+      cores.forEach((c, i) => {
+        const a = (-90 + i * 360 / 13) * Math.PI / 180;
+        h += `<circle cx="${(22 + 16 * Math.cos(a)).toFixed(2)}" cy="${(22 + 16 * Math.sin(a)).toFixed(2)}" r="3" fill="var(--${c})"/>`;
+      });
+      s.innerHTML = h;
+    })();
+  </script>
+</body>
+</html>
