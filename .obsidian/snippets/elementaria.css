@@ -1,0 +1,49 @@
+/* ============================================================
+   Elementaria — estilo do vault (gerado pelo vault-builder)
+   Callouts novos: [!ficha|right] [!status] [!galeria] [!ligacoes]
+   Classes de nota (cssclasses): ficha · episodio · wiki
+   ============================================================ */
+
+/* ---------- quadro de ficha (infobox) ---------- */
+.callout[data-callout="ficha"] {
+  --callout-color: 168, 130, 255;
+  --callout-icon: lucide-scroll-text;
+  border-radius: 14px;
+  padding: 10px 12px;
+}
+.callout[data-callout="ficha"] .callout-title { justify-content: center; font-size: 1.15em; letter-spacing: .02em; }
+.callout[data-callout="ficha"] img { width: 100%; border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 0, 0, .35); }
+.callout[data-callout="ficha"] table { width: 100%; font-size: .86em; margin: .4em 0 0; }
+.callout[data-callout="ficha"] table th:empty, .callout[data-callout="ficha"] thead:has(th:empty) { display: none; }
+.callout[data-callout="ficha"] td:first-child { font-weight: 600; opacity: .8; white-space: nowrap; }
+.callout[data-callout="ficha"][data-callout-metadata~="right"] { float: right; width: 330px; margin: 0 0 1.2em 1.6em; }
+.callout[data-callout="ficha"][data-callout-metadata~="left"] { float: left; width: 330px; margin: 0 1.6em 1.2em 0; }
+.ficha h2, .ficha .callout[data-callout="ligacoes"], .wiki h2 { clear: both; }
+@media (max-width: 760px) {
+  .callout[data-callout="ficha"][data-callout-metadata~="right"],
+  .callout[data-callout="ficha"][data-callout-metadata~="left"] { float: none; width: auto; margin: 0 0 1em 0; }
+}
+
+/* ---------- painel de status ---------- */
+.callout[data-callout="status"] { --callout-color: 255, 110, 130; --callout-icon: lucide-heart-pulse; border-radius: 12px; }
+.callout[data-callout="status"] table { width: 100%; }
+.callout[data-callout="status"] th, .callout[data-callout="status"] td { text-align: center; }
+.callout[data-callout="status"] td { font-size: 1.15em; font-weight: 700; }
+
+/* ---------- galerias ---------- */
+.callout[data-callout="galeria"] { --callout-color: 90, 190, 255; --callout-icon: lucide-images; border-radius: 12px; }
+.callout[data-callout="galeria"] img, .episodio table img { border-radius: 10px; box-shadow: 0 3px 10px rgba(0, 0, 0, .3); }
+.episodio table { width: 100%; }
+.episodio table td { text-align: center; vertical-align: top; font-size: .85em; }
+.episodio table th:empty, .episodio thead:has(th:empty) { display: none; }
+
+/* ---------- ligações dinâmicas ---------- */
+.callout[data-callout="ligacoes"] { --callout-color: 120, 220, 160; --callout-icon: lucide-network; border-radius: 12px; }
+
+/* ---------- tabelas e barras ---------- */
+.ficha table td, .ficha table th, .wiki table td, .wiki table th { padding: 4px 9px; }
+.ficha code.barra, .ficha .barra { letter-spacing: -1px; background: transparent; }
+.ficha h1, .wiki h1, .episodio h1 { border-bottom: 2px solid var(--interactive-accent); padding-bottom: .25em; }
+
+/* retratos pequenos em tabelas (galerias de personagens, retratos mencionados) */
+.markdown-rendered table img { border-radius: 8px; }

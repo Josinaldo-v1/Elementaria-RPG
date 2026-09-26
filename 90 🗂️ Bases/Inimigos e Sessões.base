@@ -1,0 +1,26 @@
+filters:
+  and:
+    - tipo == "inimigo" || tipo == "sessao"
+properties:
+  note.categoria:
+    displayName: Categoria
+  note.data:
+    displayName: Data
+  note.boss:
+    displayName: Boss
+  note.tipo:
+    displayName: Tipo
+views:
+  - type: table
+    name: Tudo
+    groupBy:
+      property: tipo
+      direction: ASC
+    order:
+      - file.name
+      - categoria
+      - data
+      - boss
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,33 @@
+filters:
+  and:
+    - tipo == "condicao"
+properties:
+  note.estagios:
+    displayName: Estágios
+  note.dano_por_estagio:
+    displayName: Dano verdadeiro
+  note.teste_para_sair:
+    displayName: Para sair
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - estagios
+      - dano_por_estagio
+      - teste_para_sair
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Por teste para sair
+    groupBy:
+      property: teste_para_sair
+      direction: ASC
+    order:
+      - file.name
+      - estagios
+      - dano_por_estagio
+    sort:
+      - property: file.name
+        direction: ASC

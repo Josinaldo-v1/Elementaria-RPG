@@ -1,0 +1,109 @@
+filters:
+  and:
+    - tipo == "poder"
+properties:
+  note.classe:
+    displayName: Classe
+  note.nivel:
+    displayName: Nível
+  note.categoria:
+    displayName: Tipo
+  note.custo_mana:
+    displayName: Mana
+  note.dt:
+    displayName: DT
+  note.modificador:
+    displayName: Modificador
+  note.teste_funcionalidade:
+    displayName: Funcionalidade
+  note.acerto:
+    displayName: Acerto
+  note.alcance:
+    displayName: Alcance
+  note.ordem:
+    displayName: "#"
+  note.personagens:
+    displayName: Quem tem
+views:
+  - type: table
+    name: Por classe
+    groupBy:
+      property: classe
+      direction: ASC
+    order:
+      - file.name
+      - nivel
+      - categoria
+      - modificador
+      - custo_mana
+      - dt
+      - acerto
+      - alcance
+      - ordem
+    sort:
+      - property: nivel
+        direction: ASC
+  - type: table
+    name: Por modificador
+    groupBy:
+      property: modificador
+      direction: ASC
+    order:
+      - file.name
+      - classe
+      - nivel
+      - categoria
+    sort:
+      - property: nivel
+        direction: ASC
+  - type: table
+    name: Com descrição
+    filters:
+      and:
+        - detalhado == true
+    groupBy:
+      property: classe
+      direction: ASC
+    order:
+      - file.name
+      - nivel
+      - categoria
+      - custo_mana
+      - dt
+      - teste_funcionalidade
+      - acerto
+      - alcance
+      - personagens
+    sort:
+      - property: nivel
+        direction: ASC
+  - type: table
+    name: Sem descrição ainda
+    filters:
+      and:
+        - detalhado == false
+    groupBy:
+      property: classe
+      direction: ASC
+    order:
+      - ordem
+      - file.name
+    sort:
+      - property: ordem
+        direction: ASC
+  - type: table
+    name: Por nível
+    filters:
+      and:
+        - detalhado == true
+    groupBy:
+      property: nivel
+      direction: ASC
+    order:
+      - file.name
+      - classe
+      - categoria
+      - custo_mana
+    sort:
+      - property: file.name
+        direction: ASC

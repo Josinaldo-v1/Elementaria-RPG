@@ -1,0 +1,24 @@
+filters:
+  and:
+    - tipo == "modificador"
+properties:
+  note.icone:
+    displayName: " "
+  note.elemento:
+    displayName: Elemento
+  note.energia_forcada:
+    displayName: Teste forçado
+  note.pericias:
+    displayName: Perícias
+views:
+  - type: table
+    name: Modificadores
+    order:
+      - icone
+      - file.name
+      - elemento
+      - energia_forcada
+      - pericias
+    sort:
+      - property: file.name
+        direction: ASC

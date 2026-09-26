@@ -1,0 +1,20 @@
+filters:
+  and:
+    - tipo == "linhagem"
+properties:
+  note.classe:
+    displayName: Classe
+  note.figuras:
+    displayName: Grandes nomes
+views:
+  - type: table
+    name: Por classe
+    groupBy:
+      property: classe
+      direction: ASC
+    order:
+      - file.name
+      - figuras
+    sort:
+      - property: file.name
+        direction: ASC

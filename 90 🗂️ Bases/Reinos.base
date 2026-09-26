@@ -1,0 +1,21 @@
+filters:
+  and:
+    - categoria == "reino"
+properties:
+  note.classes:
+    displayName: Povo
+  note.espiritos:
+    displayName: Espírito
+  note.governo:
+    displayName: Governo
+views:
+  - type: table
+    name: Reinos
+    order:
+      - file.name
+      - classes
+      - espiritos
+      - governo
+    sort:
+      - property: file.name
+        direction: ASC

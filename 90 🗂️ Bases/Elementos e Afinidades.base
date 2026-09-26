@@ -1,0 +1,39 @@
+filters:
+  and:
+    - tipo == "elemento" || tipo == "afinidade"
+properties:
+  note.icone:
+    displayName: " "
+  note.modificador:
+    displayName: Modificador
+  note.elemento:
+    displayName: Elemento
+  note.usos:
+    displayName: Usos
+views:
+  - type: table
+    name: Elementos
+    filters:
+      and:
+        - tipo == "elemento"
+    order:
+      - icone
+      - file.name
+      - modificador
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Passivas de afinidade
+    filters:
+      and:
+        - tipo == "afinidade"
+    groupBy:
+      property: elemento
+      direction: ASC
+    order:
+      - file.name
+      - usos
+    sort:
+      - property: file.name
+        direction: ASC

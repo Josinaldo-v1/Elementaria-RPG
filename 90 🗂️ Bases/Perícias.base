@@ -1,0 +1,37 @@
+filters:
+  and:
+    - tipo == "pericia"
+properties:
+  note.modificador:
+    displayName: Modificador
+  note.elemento:
+    displayName: Elemento
+  note.rolagem:
+    displayName: Rolagem
+  note.icone:
+    displayName: " "
+views:
+  - type: table
+    name: Por modificador
+    groupBy:
+      property: modificador
+      direction: ASC
+    order:
+      - icone
+      - file.name
+      - rolagem
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Por tipo de rolagem
+    groupBy:
+      property: rolagem
+      direction: ASC
+    order:
+      - icone
+      - file.name
+      - modificador
+    sort:
+      - property: file.name
+        direction: ASC

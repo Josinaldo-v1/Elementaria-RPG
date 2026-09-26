@@ -1,0 +1,23 @@
+filters:
+  and:
+    - tipo == "item"
+properties:
+  note.categoria:
+    displayName: Categoria
+  note.portador:
+    displayName: Portador
+  note.dano:
+    displayName: Dano
+views:
+  - type: table
+    name: Itens
+    groupBy:
+      property: portador
+      direction: ASC
+    order:
+      - file.name
+      - categoria
+      - dano
+    sort:
+      - property: file.name
+        direction: ASC

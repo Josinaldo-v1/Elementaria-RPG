@@ -1,0 +1,47 @@
+filters:
+  and:
+    - origem_dados == "Elementaria Armas"
+properties:
+  note.raridade:
+    displayName: Raridade
+  note.categoria:
+    displayName: Categoria
+  note.slot:
+    displayName: Slot
+  note.portador:
+    displayName: Portador
+  note.conjunto:
+    displayName: Conjunto
+  note.dano:
+    displayName: Dano
+views:
+  - type: cards
+    name: Galeria
+    groupBy:
+      property: raridade
+      direction: ASC
+    order:
+      - file.name
+      - raridade
+      - categoria
+      - portador
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.imagem
+    imageFit: cover
+  - type: table
+    name: Tabela
+    groupBy:
+      property: raridade
+      direction: ASC
+    order:
+      - file.name
+      - categoria
+      - slot
+      - dano
+      - conjunto
+      - portador
+    sort:
+      - property: file.name
+        direction: ASC

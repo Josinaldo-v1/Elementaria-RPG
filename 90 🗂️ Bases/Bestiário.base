@@ -1,0 +1,29 @@
+filters:
+  and:
+    - categoria == "Monstro"
+properties:
+  note.nivel:
+    displayName: Nível
+  note.vida_total:
+    displayName: Vida
+  note.movimento:
+    displayName: Movimento
+  note.elementos:
+    displayName: Elementos
+  note.nome_provisorio:
+    displayName: Nome provisório
+views:
+  - type: table
+    name: Por nível
+    groupBy:
+      property: nivel
+      direction: ASC
+    order:
+      - file.name
+      - vida_total
+      - movimento
+      - elementos
+      - nome_provisorio
+    sort:
+      - property: vida_total
+        direction: ASC

@@ -1,0 +1,170 @@
+{
+  "collapse-filter": false,
+  "search": "-path:rpg-manager -path:\"91 🧩 Templates\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#personagem",
+      "color": {
+        "a": 1,
+        "rgb": 3066993
+      }
+    },
+    {
+      "query": "tag:#companheiro",
+      "color": {
+        "a": 1,
+        "rgb": 1482885
+      }
+    },
+    {
+      "query": "tag:#historico",
+      "color": {
+        "a": 1,
+        "rgb": 12154638
+      }
+    },
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 1752220
+      }
+    },
+    {
+      "query": "tag:#classe",
+      "color": {
+        "a": 1,
+        "rgb": 15158332
+      }
+    },
+    {
+      "query": "tag:#linhagem",
+      "color": {
+        "a": 1,
+        "rgb": 15965202
+      }
+    },
+    {
+      "query": "tag:#espirito OR tag:#aspecto",
+      "color": {
+        "a": 1,
+        "rgb": 15844367
+      }
+    },
+    {
+      "query": "tag:#poder",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "tag:#condicao",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "tag:#modificador OR tag:#pericia OR tag:#pericia-especial",
+      "color": {
+        "a": 1,
+        "rgb": 3447003
+      }
+    },
+    {
+      "query": "tag:#elemento OR tag:#afinidade",
+      "color": {
+        "a": 1,
+        "rgb": 6139362
+      }
+    },
+    {
+      "query": "tag:#regra",
+      "color": {
+        "a": 1,
+        "rgb": 15528177
+      }
+    },
+    {
+      "query": "tag:#item OR tag:#invocacao OR tag:#arsenal",
+      "color": {
+        "a": 1,
+        "rgb": 13849600
+      }
+    },
+    {
+      "query": "tag:#reino",
+      "color": {
+        "a": 1,
+        "rgb": 13937677
+      }
+    },
+    {
+      "query": "tag:#local",
+      "color": {
+        "a": 1,
+        "rgb": 8228666
+      }
+    },
+    {
+      "query": "tag:#historia OR tag:#conto OR tag:#noticia OR tag:#documento",
+      "color": {
+        "a": 1,
+        "rgb": 15499177
+      }
+    },
+    {
+      "query": "tag:#lore",
+      "color": {
+        "a": 1,
+        "rgb": 10502144
+      }
+    },
+    {
+      "query": "tag:#inimigo OR tag:#bestiario",
+      "color": {
+        "a": 1,
+        "rgb": 12597547
+      }
+    },
+    {
+      "query": "tag:#episodio OR tag:#sessao",
+      "color": {
+        "a": 1,
+        "rgb": 15221651
+      }
+    },
+    {
+      "query": "tag:#canal",
+      "color": {
+        "a": 1,
+        "rgb": 8359053
+      }
+    },
+    {
+      "query": "tag:#mestre",
+      "color": {
+        "a": 1,
+        "rgb": 7091331
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.5427512195122,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.463024390243902,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.2726859917360063,
+  "close": true
+}

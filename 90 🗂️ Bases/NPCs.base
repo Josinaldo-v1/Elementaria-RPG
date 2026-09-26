@@ -1,0 +1,64 @@
+filters:
+  and:
+    - tipo == "npc"
+properties:
+  note.classe:
+    displayName: Classe
+  note.graciado_por:
+    displayName: Graciado por
+  note.afinidade:
+    displayName: Afinidade
+  note.cidade:
+    displayName: Cidade
+  note.cargo:
+    displayName: Cargo
+  note.tempo_nativo:
+    displayName: Tempo
+  note.idade:
+    displayName: Idade
+  note.grupos:
+    displayName: Grupos
+  note.categoria_discord:
+    displayName: Categoria
+views:
+  - type: table
+    name: Por categoria
+    groupBy:
+      property: categoria_discord
+      direction: ASC
+    order:
+      - file.name
+      - classe
+      - afinidade
+      - cidade
+      - cargo
+      - tempo_nativo
+      - idade
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Por grupo
+    groupBy:
+      property: grupos
+      direction: ASC
+    order:
+      - file.name
+      - classe
+      - cargo
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Por tempo
+    groupBy:
+      property: tempo_nativo
+      direction: ASC
+    order:
+      - file.name
+      - classe
+      - idade
+      - cidade
+    sort:
+      - property: idade
+        direction: ASC

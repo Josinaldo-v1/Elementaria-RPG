@@ -1,0 +1,220 @@
+/* ==========================================================================
+   EVENT HORIZON THEME FOR OBSIDIAN
+   Version: 1.0.0
+   Author: Nachiket Tanksale (https://github.com/nachiket273)
+   ========================================================================== */
+
+:root {
+    /* Deep Space Palette Variables */
+    --eh-void: #0b0d12;
+    --eh-nebula-slate: #151922;
+    --eh-nebula-hover: #1f2533;
+    --eh-starlight: #e6edf3;
+    --eh-dim-star: #8b949e;
+    --eh-cosmic-dust: #21262d;
+    --eh-border-glow: #30363d;
+
+    /* Spectral Accents */
+    --eh-cyan-glow: #00f0ff;
+    --eh-amber-infrared: #ff9e3b;
+    --eh-violet-node: #a855f7;
+    --eh-singularity-red: #ff4a4a;
+    --eh-quantum-green: #10b981;
+
+    /* Obsidian App Core Overrides */
+    --background-primary: var(--eh-void);
+    --background-primary-alt: #0e1118;
+    --background-secondary: var(--eh-nebula-slate);
+    --background-secondary-alt: #11141c;
+    --background-modifier-border: var(--eh-border-glow);
+    --background-modifier-form-field: #161b22;
+    
+    --text-normal: var(--eh-starlight);
+    --text-muted: var(--eh-dim-star);
+    --text-faint: #484f58;
+
+    --interactive-accent: var(--eh-cyan-glow);
+    --interactive-accent-hover: #33f3ff;
+    --interactive-normal: var(--eh-nebula-slate);
+    --interactive-hover: var(--eh-nebula-hover);
+    
+    --font-monospace: 'JetBrains Mono', 'Fira Code', monospace;
+    --hr-color: var(--eh-border-glow);
+}
+
+/* --------------------------------------------------------------------------
+   1. Dynamic Heading Hierarchy (Luminance Gradient)
+   -------------------------------------------------------------------------- */
+.cm-header-1, .markdown-rendered h1 {
+    color: var(--eh-starlight) !important;
+    font-weight: 700;
+    text-shadow: 0 0 12px rgba(230, 237, 243, 0.25);
+    border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+    padding-bottom: 0.3em;
+}
+
+.cm-header-2, .markdown-rendered h2 {
+    color: var(--eh-cyan-glow) !important;
+    font-weight: 600;
+    text-shadow: 0 0 8px rgba(0, 240, 255, 0.2);
+}
+
+.cm-header-3, .markdown-rendered h3 {
+    color: #80f8ff !important;
+}
+
+.cm-header-4, .markdown-rendered h4 {
+    color: var(--eh-violet-node) !important;
+}
+
+.cm-header-5, .markdown-rendered h5 {
+    color: var(--eh-amber-infrared) !important;
+}
+
+.cm-header-6, .markdown-rendered h6 {
+    color: var(--eh-dim-star) !important;
+}
+
+/* --------------------------------------------------------------------------
+   2. Graph View Cosmic Map Engine Styling
+   -------------------------------------------------------------------------- */
+.graph-view-container {
+    background-color: var(--eh-void) !important;
+}
+
+/* Base Nodes & Connections */
+.graph-view-wrapper {
+    --graph-node: var(--eh-starlight);
+    --graph-node-unresolved: var(--eh-violet-node);
+    --graph-node-focused: var(--eh-cyan-glow);
+    --graph-node-tag: var(--eh-amber-infrared);
+    --graph-line: rgba(48, 54, 61, 0.6);
+    --graph-line-highlight: var(--eh-cyan-glow);
+}
+
+/* --------------------------------------------------------------------------
+   3. Distraction-Free Workspace Auto-Fade (Zen Mode - Ultra Robust)
+   -------------------------------------------------------------------------- */
+
+/* Default smooth transitions for all UI peripheral elements */
+.workspace-ribbon,
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split,
+.titlebar,
+.status-bar {
+    transition: opacity 0.35s cubic-bezier(0.4, 0, 0.2, 1), filter 0.35s ease-in-out !important;
+}
+
+/* Fade sidebars & bars when the center note container has active focus */
+.workspace-tabs:focus-within ~ .workspace-split,
+body:has(.workspace-leaf.mod-active:focus-within) .workspace-ribbon,
+body:has(.workspace-leaf.mod-active:focus-within) .workspace-split.mod-left-split,
+body:has(.workspace-leaf.mod-active:focus-within) .workspace-split.mod-right-split,
+body:has(.workspace-leaf.mod-active:focus-within) .titlebar,
+body:has(.workspace-leaf.mod-active:focus-within) .status-bar {
+    opacity: 0.12 !important;
+    filter: blur(1.5px);
+}
+
+/* Instant clean reveal when hovering anywhere near the sidebars/bars */
+.workspace-ribbon:hover,
+.workspace-split.mod-left-split:hover,
+.workspace-split.mod-right-split:hover,
+.titlebar:hover,
+.status-bar:hover {
+    opacity: 1 !important;
+    filter: blur(0px) !important;
+}
+
+/* --------------------------------------------------------------------------
+   4. Custom Cosmic Callout Boxes
+   -------------------------------------------------------------------------- */
+.callout[data-callout="observation"] {
+    --callout-color: 0, 240, 255;
+    --callout-icon: telescope;
+    background-color: rgba(0, 240, 255, 0.04);
+    border-left: 3px solid var(--eh-cyan-glow);
+}
+
+.callout[data-callout="hypothesis"] {
+    --callout-color: 168, 85, 247;
+    --callout-icon: atom;
+    background-color: rgba(168, 85, 247, 0.04);
+    border-left: 3px solid var(--eh-violet-node);
+}
+
+.callout[data-callout="singularity"] {
+    --callout-color: 255, 74, 74;
+    --callout-icon: orbit;
+    background-color: rgba(255, 74, 74, 0.05);
+    border-left: 3px solid var(--eh-singularity-red);
+    box-shadow: 0 0 15px rgba(255, 74, 74, 0.12);
+}
+
+.callout[data-callout="quantum"] {
+    --callout-color: 16, 185, 129;
+    --callout-icon: binary;
+    background-color: rgba(16, 185, 129, 0.04);
+    border-left: 3px solid var(--eh-quantum-green);
+}
+
+/* --------------------------------------------------------------------------
+   5. Code Blocks, LaTeX Math, & UI Polish
+   -------------------------------------------------------------------------- */
+/* Inline Code */
+:not(pre) > code {
+    color: var(--eh-amber-infrared) !important;
+    background-color: rgba(255, 158, 59, 0.08) !important;
+    border: 1px solid rgba(255, 158, 59, 0.2);
+    border-radius: 4px;
+    padding: 2px 6px;
+}
+
+/* Code Blocks */
+.cm-s-obsidian pre.HyperMD-codeblock, .markdown-rendered pre {
+    background-color: var(--eh-nebula-slate) !important;
+    border: 1px solid var(--eh-border-glow);
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6);
+}
+
+/* LaTeX Math Blocks */
+.math-block {
+    background-color: rgba(21, 25, 34, 0.6);
+    border-left: 2px solid var(--eh-violet-node);
+    border-radius: 0 6px 6px 0;
+    padding: 0.8em 1em;
+    margin: 1em 0;
+}
+
+.math-inline {
+    color: var(--eh-cyan-glow);
+}
+
+/* Cursor Glow */
+.cm-cursor {
+    border-left-width: 2.5px !important;
+    border-left-color: var(--eh-cyan-glow) !important;
+    box-shadow: 0 0 8px var(--eh-cyan-glow);
+}
+
+/* Graph Canvas Colors */
+.theme-dark {
+    --graph-node-unresolved: #a855f7;
+    --graph-node-focused: #00f0ff;
+    --graph-node-tag: #ff9e3b;
+    --graph-line-highlight: #00f0ff;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--eh-cosmic-dust);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--eh-dim-star);
+}

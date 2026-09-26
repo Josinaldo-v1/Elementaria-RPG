@@ -1,0 +1,38 @@
+filters:
+  and:
+    - tipo == "classe"
+properties:
+  note.reino:
+    displayName: Reino
+  note.espirito:
+    displayName: Espírito
+  note.linhagens:
+    displayName: Linhagens
+  note.qtd_poderes:
+    displayName: Poderes
+  note.icone:
+    displayName: " "
+views:
+  - type: cards
+    name: Classes
+    order:
+      - icone
+      - file.name
+      - reino
+      - espirito
+      - qtd_poderes
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tabela
+    order:
+      - icone
+      - file.name
+      - reino
+      - espirito
+      - linhagens
+      - qtd_poderes
+    sort:
+      - property: file.name
+        direction: ASC

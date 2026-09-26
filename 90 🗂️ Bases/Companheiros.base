@@ -1,0 +1,19 @@
+filters:
+  and:
+    - tipo == "companheiro"
+properties:
+  note.vida_total:
+    displayName: Vida
+  note.qtd_habilidades:
+    displayName: Habilidades
+views:
+  - type: table
+    name: Companheiros
+    order:
+      - file.name
+      - vida_total
+      - qtd_habilidades
+      - habilidades
+    sort:
+      - property: file.name
+        direction: ASC

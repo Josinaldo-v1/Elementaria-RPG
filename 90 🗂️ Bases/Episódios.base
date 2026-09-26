@@ -1,0 +1,32 @@
+filters:
+  and:
+    - tipo == "sessao" && episodio
+properties:
+  note.episodio:
+    displayName: EP
+  note.data:
+    displayName: Data
+  note.personagens:
+    displayName: Personagens
+  note.companheiros:
+    displayName: Companheiros
+  note.npcs:
+    displayName: NPCs
+  note.locais:
+    displayName: Locais
+  note.aspectos_e_seres:
+    displayName: Aspectos e seres
+views:
+  - type: table
+    name: Episódios
+    order:
+      - episodio
+      - file.name
+      - data
+      - locais
+      - npcs
+      - companheiros
+      - aspectos_e_seres
+    sort:
+      - property: episodio
+        direction: ASC

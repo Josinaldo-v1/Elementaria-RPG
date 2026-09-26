@@ -1,0 +1,17 @@
+filters:
+  and:
+    - tipo == "regra"
+properties:
+  note.categoria:
+    displayName: Categoria
+views:
+  - type: table
+    name: Regras
+    groupBy:
+      property: categoria
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

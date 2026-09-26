@@ -1,0 +1,20 @@
+filters:
+  and:
+    - categoria == "local" || categoria == "ser"
+properties:
+  note.categoria:
+    displayName: Tipo
+  note.episodios:
+    displayName: Episódios
+views:
+  - type: table
+    name: Locais e seres
+    groupBy:
+      property: categoria
+      direction: ASC
+    order:
+      - file.name
+      - episodios
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Cosmic Events",
+  "nativeMenus": false,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "elementaria"
+  ]
+}

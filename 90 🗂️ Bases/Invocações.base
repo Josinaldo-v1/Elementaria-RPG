@@ -1,0 +1,24 @@
+filters:
+  and:
+    - tipo == "invocacao"
+properties:
+  note.categoria:
+    displayName: Tipo
+  note.dono:
+    displayName: Dono
+  note.vida_total:
+    displayName: Vida
+  note.habilidades:
+    displayName: Habilidades
+views:
+  - type: table
+    name: Invocações e filiais
+    order:
+      - file.name
+      - categoria
+      - dono
+      - vida_total
+      - habilidades
+    sort:
+      - property: file.name
+        direction: ASC

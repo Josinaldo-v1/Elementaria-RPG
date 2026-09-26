@@ -1,0 +1,23 @@
+filters:
+  and:
+    - tipo == "espirito" || tipo == "aspecto"
+properties:
+  note.classe:
+    displayName: Classe
+  note.titulo:
+    displayName: Título
+  note.tipo:
+    displayName: Tipo
+views:
+  - type: table
+    name: Por classe
+    groupBy:
+      property: classe
+      direction: ASC
+    order:
+      - file.name
+      - tipo
+      - titulo
+    sort:
+      - property: tipo
+        direction: ASC

@@ -1,0 +1,26 @@
+filters:
+  and:
+    - tipo == "pericia_especial"
+properties:
+  note.categoria:
+    displayName: Tipo
+  note.personagem:
+    displayName: Personagem
+  note.custo_mana:
+    displayName: Mana
+  note.usos:
+    displayName: Usos
+views:
+  - type: table
+    name: Todas
+    groupBy:
+      property: categoria
+      direction: ASC
+    order:
+      - file.name
+      - personagem
+      - custo_mana
+      - usos
+    sort:
+      - property: file.name
+        direction: ASC

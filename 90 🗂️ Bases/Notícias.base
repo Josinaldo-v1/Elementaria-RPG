@@ -1,0 +1,24 @@
+filters:
+  and:
+    - categoria == "noticia"
+properties:
+  note.data:
+    displayName: Data
+  note.jornal:
+    displayName: Jornal
+  note.autor:
+    displayName: Autor
+  note.ligados:
+    displayName: Ligações
+views:
+  - type: table
+    name: Notícias
+    order:
+      - data
+      - file.name
+      - jornal
+      - autor
+      - ligados
+    sort:
+      - property: data
+        direction: ASC

@@ -1,0 +1,31 @@
+filters:
+  and:
+    - 'tipo == "canal"'
+properties:
+  note.personagem:
+    displayName: "Personagem"
+  note.canal:
+    displayName: "Canal"
+  note.mensagens:
+    displayName: "Mensagens"
+  note.imagens:
+    displayName: "Imagens"
+  note.periodo:
+    displayName: "Período"
+  note.visibilidade:
+    displayName: "Visibilidade"
+views:
+  - type: table
+    name: "Por personagem"
+    groupBy:
+      property: note.personagem
+      direction: ASC
+    order:
+      - file.name
+      - note.mensagens
+      - note.imagens
+      - note.periodo
+      - note.visibilidade
+    sort:
+      - property: file.name
+        direction: ASC

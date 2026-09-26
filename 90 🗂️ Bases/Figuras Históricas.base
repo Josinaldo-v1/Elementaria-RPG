@@ -1,0 +1,29 @@
+filters:
+  and:
+    - categoria == "Figura histórica"
+properties:
+  note.familia:
+    displayName: Família
+  note.classe:
+    displayName: Povo
+  note.reino:
+    displayName: Reino
+  note.tempo_nativo:
+    displayName: Época
+  note.cargo:
+    displayName: Papel
+views:
+  - type: table
+    name: Por família
+    groupBy:
+      property: familia
+      direction: ASC
+    order:
+      - file.name
+      - cargo
+      - classe
+      - reino
+      - tempo_nativo
+    sort:
+      - property: file.name
+        direction: ASC

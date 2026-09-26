@@ -1,0 +1,91 @@
+filters:
+  and:
+    - tipo == "personagem"
+properties:
+  note.classe:
+    displayName: Classe
+  note.linhagem:
+    displayName: Linhagem
+  note.afinidade:
+    displayName: Afinidade
+  note.vida_total:
+    displayName: Vida
+  note.mana_total:
+    displayName: Mana
+  note.morrer:
+    displayName: Morrer
+  note.predestinacao:
+    displayName: Predestinação
+  note.agilidade:
+    displayName: Agilidade
+  note.precisao:
+    displayName: Precisão
+  note.forca:
+    displayName: Força
+  note.constituicao:
+    displayName: Constituição
+  note.inteligencia:
+    displayName: Inteligência
+  note.sabedoria:
+    displayName: Sabedoria
+  note.carisma:
+    displayName: Carisma
+  note.medo:
+    displayName: Medo
+  note.fe:
+    displayName: Fé
+  note.vitalidade:
+    displayName: Vitalidade
+  note.vigor:
+    displayName: Vigor
+  note.energia:
+    displayName: Energia
+  note.sina:
+    displayName: Sina
+views:
+  - type: cards
+    name: Galeria
+    order:
+      - file.name
+      - classe
+      - vida_total
+      - mana_total
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.imagem
+    imageFit: cover
+  - type: table
+    name: Ficha
+    order:
+      - file.name
+      - classe
+      - linhagem
+      - afinidade
+      - vida_total
+      - mana_total
+      - morrer
+      - predestinacao
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Modificadores
+    order:
+      - file.name
+      - agilidade
+      - precisao
+      - forca
+      - constituicao
+      - inteligencia
+      - sabedoria
+      - carisma
+      - medo
+      - fe
+      - vitalidade
+      - vigor
+      - energia
+      - sina
+    sort:
+      - property: file.name
+        direction: ASC
